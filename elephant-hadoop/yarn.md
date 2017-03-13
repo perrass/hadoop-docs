@@ -80,5 +80,34 @@ Yet Another Resource Negotiator
 
 ---
 
+资源调度流程
 
+1. Resource Manager为应用程序分配Container
+2. Application master在内部选择task分配Container
+3. 找到对应的Node Manager启动对应的task，这个在Container的task可以是Spark，也可以是MR
+4. Node Manager向Resource Manager返回心跳(各个Container的状态)
 
+具体的资源组织管理方法，实际场景中会使用多队列组织方式，将所有应用程序放到多个队列中，每个队列可单独实现调度策略，每个队列对应一定比例的资源.　这样可以按队列组织资源和用户，符合生产需要，且不同队列的资源分配策略不同
+
+1. FIFO (单一队列)，队列前的应用程序优先获得资源，效率低，不灵活
+2. Capacity Scheduler
+   * 每个队列按一定比例分配资源
+   * 可限制每个用户使用资源量
+   * 支持标签资源调度
+3. Fair Scheduler
+   * 基于最小资源量与公平共享量进行调度
+   * 作业优先级越高，分配到的资源越多
+
+基于标签的调度策略
+
+* 常用于异构集群　(操作系统不同，安装的库版本不同，硬件不同)
+
+* 将一些高配置机器打上highmemory / highdisk标签，并结合队列配置使之生效
+
+* 将所有的mapreduce程序提交到对应的队列中
+
+  ```shell
+  hadoop jar XXX.jar -Dmapreduce.job.queuename=xxx
+  ```
+
+* 可以在不同的rack上对不同的任务类型(stream, mr, spark, docker)分配不同的资源
