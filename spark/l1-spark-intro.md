@@ -45,20 +45,18 @@ val MEMORY_AND_DISK = new StorageLevel(true, true, false, true)
 
 ```shell
 spark-submit \
-	--master yarn-cluster \
+	--master yarn-cluster \ # 运行模式
 	--class com.hulu.examples.SparkPi \  # main函数的入口
-	--name sparkpi \
-	--driver-memory 2g \
-	--driver-core 1 \
-	--executor-memory 3g \
-	--executor-cores 2 \
-	--num-executor 2 \
-	--queue spark \
+	--name sparkpi \ # 作业名称
+	--driver-memory 2g \  # Driver需要的内存
+	--driver-core 1 \  # Driver数量
+	--executor-memory 3g \  # 每个executor需要的内存
+	--executor-cores 3 \  # 每个executor线程数
+	--num-executor 2 \  # 需启动的executor数量
+	--queue spark \  # 提交到的队列
 	--conf spark.pi.iterators=500000 \
 	$FWDIR/target/scala-2.10/spark-example-assembly-1.0.jar
 ```
 
-这个方式会上传spark-example-assembly-1.0.jar到集群，启动速度会较慢
-
-
+这个方式会上传spark-example-assembly-1.0.jar到集群，启动速度会较慢。这种情况下，**一个driver会有2个executor，每个executor有3个线程
 
