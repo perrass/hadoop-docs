@@ -106,3 +106,82 @@ val observedSizes = rdd.map(_ => bdata.value.size)  // 各个task中，通过bda
 #### cache
 
 当需要重复读取某变量时，数据从HDFS读取并缓存至内存（或者单独设立缓存机制），**如果只是用一次或次数极少，不需要用cache**
+
+### Scala程序设计流程
+
+1. 创建Maven项目
+2. 用IDE做本地开发
+3. Maven打包
+4. 编写shell脚本运行程序（包括一些基本的命令行，如删除某个存在的目录）
+
+```shell
+mvn archetype:generate \ 
+-DarchetypeGroupId=org.scala-tools.archetypes \ 
+-DarchetypeArtifactId=scala-archetype-simple \
+-DarchetypeVersion=1.1 \
+-DremoteRepositories=http://scala-tools.org/repo-releases \
+-DarchetypeCatalog=Internal \
+-DinteractiveMode=false \
+-Dversion=1.0-SNAPSHOT \
+-DgroupId=org.training.spark \
+-DartifactId=wordcount
+```
+
+```shell
+mvn package
+```
+
+```shell
+hdfs dfs -rm -r /xxx  # hdfs操作
+spark-submit \  # 提交spark作业
+--master
+--class
+/dir/xxx.jar  # 导入jar包
+yarn-cluster /home/dir /tmp/dir  # args[]
+```
+
+### 例子
+
+统计每个用户在每台机器上查询的次数(query)和返回结果累计大小(byte)
+
+```scala
+val apacheLogRegex = """^([\d.+)(\S+)(\S+)\[([\w\d:/]+\s[+\-]\d{4})\]"(.+?)"(\d{3})(\d{3})([\d\-]+)"([^"]+)"([^"]+)".*"""
+def extractKey(line: String): (String, String, String) = {
+  apacheLogRegex.findFirstIn(line) match {
+    case Some(apacheLogRegex(ip, _, user, dataTime, query, status, bytes, referer, ua)) =>
+      if (user != "\"-\"") (ip, user, query)
+      else (null, null, null)
+    case _ => (null, null, null)
+  }
+}
+def extractStats(line: String): Stats = {
+  apacheLogRegex.findFirstIn(line) match {
+    case Some(apacheLogRegex(ip, _, user, dataTime, query, status, bytes, referer, ua)) => new Stats(1, bytes.toInt)
+    case _ => new Stats(1, 0)  
+  }
+}
+                                                                                                     
+```
+
+```scala
+class Stats(val count: Int, val numBytes: Int) extends Serializable {
+  def merge(other: Stats) = new Stats(count + other.count, numBytes + other.numBytes)
+  override def toString = "bytes=%s\tn=%s".format(numBytes, count)
+}
+```
+
+```scala
+object LogQuery {
+  def main(args: Array[String]) {
+    val conf = new SparkConf().setAppName("Spark Pi")
+    val sc = new SparkContext(conf)
+    val dataset = sc.textFile(args[0])
+    dataSet.map(line => (extractKey(line), extractStats(line)))  // 形成KEY-VALUE PAIR
+      .reduceByKey((a, b) => a.merge(b))  // 按Key做reduce，调用Stats.merge函数
+      .collect().foreach {
+        case (user, query) => println("%s\t%s".format(user, query))
+      }
+  }
+}
+```
+
