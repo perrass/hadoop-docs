@@ -5,7 +5,7 @@
 
 ### 主线
 
-* 早：机器学习总结 (分类/聚类) -> 文本挖掘 -> Intro to Linear Optimization/Convex Optimization/All of Statistics/Matrix Optimizations -> CS188
+* 早：机器学习总结 (分类/聚类) -> 文本挖掘 -> Intro to Linear Optimization/Convex Optimization/All of Statistics/Matrix Optimizations -> CS188 (**以ML和MLND为主线，MLAPP/统计学习方法/机器学习为辅，看Kaggle上的数据处理方式和思路**)
 * 白：MLND/DLND -> DL/CS231n/CS224n
 * 晚：DL/CV/ML -> Algorithms/Intro to Algorithms -> Udacity Algorithms(some advanced algorithms courses) -> Leetcode/Hackerank/Codewars
 * 周末：Java/Scala/MLND/DLND -> CS 8803/Source Code
@@ -49,13 +49,19 @@
 * Java Coursera
 * Scala Coursera
 * MLND/DLND/ALND
-* Kaggle
+* Kaggle: Outbrain Click Prediction, Coupon Purchase Prediction, Otto Group Product Classification Challenge
 * CS 8803/6.s094
 
 ##### 博客
+
+* 机器学习总结
+* CS224n笔记
+* CS231n笔记
+* 小项目的笔记
 
 #### 公司
 
 * 猎聘 (Java)
 * 一诺 (GraphX)
-* 小工具 (Python)
+* Resys(Python) (Santander Product Recommendation, Expedia Hotel Recommendations)
+* 用户画像(Python) (Talking Data Mobile)
