@@ -18,12 +18,47 @@
 10. LDA
 11. Reinforcement Learning (Roughly)
 
-#### 2. 初步数学学习+进一步的ML —— 1.1
+#### 2. CMU ML —— 1.1
 
-1. Convex Optimization: CMU/Stanford Convex Optimization (能解释SVM和Gradient)
-2. All of Statistics: CMU Stat705 (基础)
-3. Harvard AM207 Stochastic Methods for Data Analysis, Inference and Optimization
-4. CMU 10-708 Probabilistic Graphical Model
+学习一些高级技能点或者是补全整个机器学习的体系，和能够推公式的数学基础，统计 -> 10-725 -> 10-715 -> 10-702  -> 10-605 -> PGM -> MCMC/HMM
+
+1. 36-705: Intermediate Statistics & Bayesian Statistics (Youtube)
+2. 10-715: Advanced Introduction to Machine Learning $\color{red}{\mathbf {This~is~the~guide~line~of~all}}$
+   1. Neural Network
+   2. Clustering, K-means, EM, GMM, PCA
+   3. Convex Optimization, SVM, Kernels, Gaussian Processes
+   4. ICA
+   5. HMM, PGM, MCMC
+   6. Nonlinear dim reduction
+3. 10-702: Statistical Machine Learning $\color{red}{\mathbf {The~third~course}}$
+   1. Advanced and Statistical topics of 10-715
+4. 15-780: Graduate Artificial Intelligence
+   1. Search
+   2. Linear / Integer Programming
+   3. Machine / Deep Learning
+   4. Probabilistic Modeling
+   5. Game theory
+   6. Social Choice
+5. 10-725: Convex Optimization
+   1. Fundamentals
+   2. First-order methods
+   3. Optimality and Duality $\color{red}{\mathbf {might~be~enough}}$
+   4. Second-order methods
+   5. Special topics
+6. 10-605: Machine Learning with Large Datasets (Spark)
+   1. Hadoop
+   2. Parallel Perceptron
+   3. SGD
+   4. Graphs
+   5. LDA
+7. Coursera: Probabilistic Graphical Model
+   1. Bayesian Net / Markov Net
+   2. MAP / MCMC / Sampling
+   3. MLE / BIC / EM 
+8. 10-708: Probabilistic Graphical Model (Advanced courses compared with Coursera)
+9. Harvard AM207 Stochastic Methods for Data Analysis, Inference and Optimization (Basic courses compared with Coursera)
+   1. More details about MC, Bayesian and MCMC
+   2. Time series / HMM / Gaussian Process
 
 #### 3. 源码学习 ——3.1
 
@@ -68,7 +103,7 @@ DLND 课程(5.27) / MLND课程 -> DLND直播课项目 -> DL/CS224n/CS231n -> Pap
 1. Java Coursera -> edX MIT & CS108
 2. Scala Coursera
 3. CS106A -> CS106B -> CS107 & CS107(2014)-> CMU 15-418 & 并行编程入门
-4. Operation System & CS 8803 & Udacity-Intro to Algorithms (GraphX) & 编程设计
+4. Operation System & CS 8803 & Udacity-Intro to Algorithms (GraphX) & 编程设计 & CSE 8803
 5. Thinking in Java -> Functional Programming in Scala
 
 
