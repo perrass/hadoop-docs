@@ -4,25 +4,22 @@
 
 **除了1，2比较明晰，后面的并不绝对，MLAPP是永远的主线**
 
-#### 1. 以ML和MLND为线索，看MLAPP/统计学习基础/机器学习 —— 9.1
+#### 1. 以ML和MLND为线索，看MLAPP/统计学习基础/机器学习 —— 8.1
 
 1. Regression (5.12) $\color{red}{\mathbf {Bigoo!}}$
 2. Logistic Regression (5.19) $\color{red}{\mathbf {Bigoo!}}$
-3. Ensemble Learning: Tree Adaboost GBDT Random Forest(5.26 - 6.16)
-4. SVM (6.23) (机器学习技法)
-5. Bayesian (6.30)
-6. Clustering 
-7. PCA
-8. GMM
-9. PLSA
-10. LDA
-11. Reinforcement Learning (Roughly)
+3. Ensemble Learning: Tree Adaboost GBDT Random Forest(5.26 - 6.4)
+4. SVM (6.11) (机器学习技法)
+5. Bayesian (6.25)(including Bayesian Statistics on Youtube)
+6. Clustering(5.29 - 6.25 clustering analysis in data mining 可以上班时间看不用放到早上，早上)
+7. PCA (7.2)
+8. 文本挖掘GMM/PLSA/LDA(Text Mining and Analytics)(7.23)
 
 #### 2. CMU ML —— 1.1
 
 学习一些高级技能点或者是补全整个机器学习的体系，和能够推公式的数学基础，统计 -> 10-725 -> 10-715 -> 10-702  -> 10-605 -> PGM -> MCMC/HMM
 
-1. 36-705: Intermediate Statistics & Bayesian Statistics (Youtube)
+1. 36-705: Intermediate Statistics + All of statistics
 2. 10-715: Advanced Introduction to Machine Learning $\color{red}{\mathbf {This~is~the~guide~line~of~all}}$
    1. Neural Network
    2. Clustering, K-means, EM, GMM, PCA
@@ -30,7 +27,7 @@
    4. ICA
    5. HMM, PGM, MCMC
    6. Nonlinear dim reduction
-3. 10-702: Statistical Machine Learning $\color{red}{\mathbf {The~third~course}}$
+3. 10-702: Statistical Machine Learning + The elements of statistical learning $\color{red}{\mathbf {The~third~course}}$
    1. Advanced and Statistical topics of 10-715
 4. 15-780: Graduate Artificial Intelligence
    1. Search
