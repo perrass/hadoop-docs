@@ -8,7 +8,7 @@
 
 1. Regression (5.12) $\color{red}{\mathbf {Bigoo!}}$
 2. Logistic Regression (5.19) $\color{red}{\mathbf {Bigoo!}}$
-3. Ensemble Learning: Tree Adaboost GBDT Random Forest(5.26 - 6.4)
+3. Ensemble Learning: Tree Adaboost GBDT Random Forest(5.26 - 6.4, 机器学习技法)
 4. SVM (6.11) (机器学习技法)
 5. Bayesian (6.25)(including Bayesian Statistics on Youtube)
 6. Clustering(5.29 - 6.25 clustering analysis in data mining 可以上班时间看不用放到早上，早上)
@@ -79,7 +79,7 @@ DLND 课程(5.27) / MLND课程 -> DLND直播课项目 -> DL/CS224n/CS231n -> Pap
 
 ### 晚上（算法线）
 
-听课（DL, CV, ML）
+听课（DL, CV, ML），现在基本结束了，所以以Intro to algorithms 为主
 
 对算法来说这五门课足够了
 
@@ -97,11 +97,10 @@ DLND 课程(5.27) / MLND课程 -> DLND直播课项目 -> DL/CS224n/CS231n -> Pap
 
 ### 周末（程序/项目线, 6.3开始）
 
-1. Java Coursera -> edX MIT & CS108
-2. Scala Coursera
-3. CS106A -> CS106B -> CS107 & CS107(2014)-> CMU 15-418 & 并行编程入门
-4. Operation System & CS 8803 & Udacity-Intro to Algorithms (GraphX) & 编程设计 & CSE 8803
-5. Thinking in Java -> Functional Programming in Scala
+1. Java: Java Coursera & Thinking in Java & CS106A-> edX MIT & CS108 & Design Pattern
+2. Scala: Scala Coursera -> Functional Programming in Scala
+3. C/C++: CS106B -> CS107 & CS107(2014)-> CMU 15-418 & 并行编程入门
+4. CS: Operation System & CS 8803 & Udacity-Intro to Algorithms (GraphX) & 编程设计 & CSE 8803
 
 
 
