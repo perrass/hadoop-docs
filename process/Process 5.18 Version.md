@@ -11,9 +11,9 @@
 3. Ensemble Learning: Tree Adaboost GBDT Random Forest(5.26 - 6.4, 机器学习技法)
 4. SVM (6.11) (机器学习技法)
 5. Bayesian (6.25)(including Bayesian Statistics on Youtube)
-6. Clustering(5.29 - 6.25 clustering analysis in data mining 可以上班时间看不用放到早上，早上)
-7. PCA (7.2)
-8. 文本挖掘GMM/PLSA/LDA(Text Mining and Analytics)(7.23)
+6. Clustering(7.2 clustering analysis in data mining 可以上班时间看不用放到早上，早上)
+7. PCA (7.9)
+8. 文本挖掘GMM/PLSA/LDA(Text Mining and Analytics)(7.30)
 
 #### 2. CMU ML —— 1.1
 
@@ -75,7 +75,33 @@
 
 ### 白天（深度学习线）
 
-DLND 课程(5.27) / MLND课程 -> DLND直播课项目 -> DL/CS224n/CS231n -> Papers/Codes/Projects
+#### 1. DLND 课程(5.27) 
+
+$\color{red}{\mathbf {Bigoo!}}$
+
+#### 1. 机器学习
+
+* MLND (无监督6.10)
+* MLND (强化7.8)
+* Clustering (5.29 - 6.25)
+* Reinforment Learning: Blog and Materials (6.25 - 7.8)
+
+#### 2. DLND review (5.31 - 7.27)
+
+two course weeks per week
+
+* DLND courses
+* Siraj youtube live/code/materials
+* DLND bilibili channel
+
+#### 3. 系统学习深度学习(7.28 - 1.1)
+
+* DL
+* CS224n
+* CS231n
+* CS294
+
+#### 4. Papers/Codes/Projects
 
 ### 晚上（算法线）
 
