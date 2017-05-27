@@ -1,5 +1,28 @@
 # 明确下各学习线
 
+### All algorithms/tools you known
+
+1. 回归: Regression
+2. 分类: Logistic Regression/CART/Adaboost/Random Forest/GBDT/SVM/Navie Bayesian/Neural Network
+3. 实例: KNN
+4. 聚类: K-means/K-means++/K-methoids/DBSCAN/Birch/AffinityPropagation/SpectralClustering
+5. 文本挖掘: GMM/PLSA/LDA
+6. 推荐: CF-users/CF-items
+7. 概率图模型: MC/HMM/Bayesian Net/Markov Net/MCMC
+8. 图:
+9. 深度学习: CNN/RNN/LSTM/GRU/Seq2Seq/GANs/Autoencoder
+10. 工具箱:
+    1. Distribution: Bernoulli/Gaussian/Dirichlet
+    2. Loss: Huber Loss/Log Loss/RSS
+    3. Regularization: Lasso/Ridge/Elastic Net
+    4. Distance/Similarity:
+    5. Sampling: Gibbs Sampling
+    6. Algorithms: Gradient Descent/EM/Back Propagation
+    7. Data Preprocessing: One-hot Encoding/Deskew/Imputation/Standardization/Normalization/Scalization
+    8. Text Preprocessing: TF-IDF/Word2Vec/GloVec
+    9. Image Preprocessing: Upsampling/Downsampling
+    10. Deep Learning: Dropout/Batch Normalization/Layer Normalization/ReLU/Padding/Deconv
+
 ### 早（机器学习线）
 
 **除了1，2比较明晰，后面的并不绝对，MLAPP是永远的主线**
@@ -57,7 +80,7 @@
    1. More details about MC, Bayesian and MCMC
    2. Time series / HMM / Gaussian Process
 
-#### 3. 源码学习 ——3.1
+#### 3. 源码学习 (写包玩！！！) ——3.1
 
 以scikit-learn User Guide为主线
 
