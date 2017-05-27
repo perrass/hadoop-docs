@@ -3,25 +3,36 @@
 ### All algorithms/tools you known
 
 1. 回归: Regression
+
 2. 分类: Logistic Regression/CART/Adaboost/Random Forest/GBDT/SVM/Navie Bayesian/Neural Network
+
 3. 实例: KNN
-4. 聚类: K-means/K-means++/K-methoids/DBSCAN/Birch/AffinityPropagation/SpectralClustering
+
+4. 聚类: K-means/K-means++/K-medoids/K-Medians/Hierachical/Agglomerative/
+
+   ClusterENG/Birch/CURE/CHAMELEON/OPTICS/STING/CLIQUE/AffinityPropagation/SpectralClustering
+
 5. 文本挖掘: GMM/PLSA/LDA
+
 6. 推荐: CF-users/CF-items
+
 7. 概率图模型: MC/HMM/Bayesian Net/Markov Net/MCMC
+
 8. 图:
+
 9. 深度学习: CNN/RNN/LSTM/GRU/Seq2Seq/GANs/Autoencoder
+
 10. 工具箱:
-    1. Distribution: Bernoulli/Gaussian/Dirichlet
-    2. Loss: Huber Loss/Log Loss/RSS
-    3. Regularization: Lasso/Ridge/Elastic Net
-    4. Distance/Similarity:
-    5. Sampling: Gibbs Sampling
-    6. Algorithms: Gradient Descent/EM/Back Propagation
-    7. Data Preprocessing: One-hot Encoding/Deskew/Imputation/Standardization/Normalization/Scalization
-    8. Text Preprocessing: TF-IDF/Word2Vec/GloVec
-    9. Image Preprocessing: Upsampling/Downsampling
-    10. Deep Learning: Dropout/Batch Normalization/Layer Normalization/ReLU/Padding/Deconv
+   1. Distribution: Bernoulli/Gaussian/Dirichlet
+   2. Loss: Huber Loss/Log Loss/RSS
+   3. Regularization: Lasso/Ridge/Elastic Net
+   4. Distance/Similarity:
+   5. Sampling: Gibbs Sampling
+   6. Algorithms: Gradient Descent/EM/Back Propagation
+   7. Data Preprocessing: One-hot Encoding/Deskew/Imputation/Standardization/Normalization/Scalization
+   8. Text Preprocessing: TF-IDF/Word2Vec/GloVec
+   9. Image Preprocessing: Upsampling/Downsampling
+   10. Deep Learning: Dropout/Batch Normalization/Layer Normalization/ReLU/Padding/Deconv
 
 ### 早（机器学习线）
 
@@ -119,7 +130,7 @@ two course weeks per week
 
 #### 3. 系统学习深度学习(7.28 - 1.1)
 
-* DL
+* DL/Deep Learning Book Club
 * CS224n
 * CS231n
 * CS294
