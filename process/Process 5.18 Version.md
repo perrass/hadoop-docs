@@ -3,36 +3,30 @@
 ### All algorithms/tools you known
 
 1. 回归: Regression
-
 2. 分类: Logistic Regression/CART/Adaboost/Random Forest/GBDT/SVM/Navie Bayesian/Neural Network
-
 3. 实例: KNN
-
-4. 聚类: K-means/K-means++/K-medoids/K-Medians/Hierachical/Agglomerative/
-
-   ClusterENG/Birch/CURE/CHAMELEON/OPTICS/STING/CLIQUE/AffinityPropagation/SpectralClustering
-
-5. 文本挖掘: GMM/PLSA/LDA
-
+4. 聚类: 
+   1. Distanced-based: k-means/k-medians/k-medoids/kernel k-means
+   2. Hierarchical: agglomerative/divisive/birch/cure/chameleon
+   3. Density-based: DBScan/optics
+   4. Grid-based: sting/clique
+   5. Others (from skicit-learn):
+5. 自然语言处理: 语言模型, MaxEnt/CRF, pLSA/LDA, w2v, CNN/RNN
 6. 推荐: CF-users/CF-items
-
 7. 概率图模型: MC/HMM/Bayesian Net/Markov Net/MCMC
-
 8. 图:
-
 9. 深度学习: CNN/RNN/LSTM/GRU/Seq2Seq/GANs/Autoencoder
-
 10. 工具箱:
-   1. Distribution: Bernoulli/Gaussian/Dirichlet
-   2. Loss: Huber Loss/Log Loss/RSS
-   3. Regularization: Lasso/Ridge/Elastic Net
-   4. Distance/Similarity:
-   5. Sampling: Gibbs Sampling
-   6. Algorithms: Gradient Descent/EM/Back Propagation
-   7. Data Preprocessing: One-hot Encoding/Deskew/Imputation/Standardization/Normalization/Scalization
-   8. Text Preprocessing: TF-IDF/Word2Vec/GloVec
-   9. Image Preprocessing: Upsampling/Downsampling
-   10. Deep Learning: Dropout/Batch Normalization/Layer Normalization/ReLU/Padding/Deconv
+  1. Distribution: Bernoulli/Gaussian/Dirichlet
+  2. Loss: Huber Loss/Log Loss/RSS
+  3. Regularization: Lasso/Ridge/Elastic Net
+  4. Distance/Similarity:
+  5. Sampling: Gibbs Sampling
+  6. Algorithms: Gradient Descent/EM/Back Propagation
+  7. Data Preprocessing: One-hot Encoding/Deskew/Imputation/Standardization/Normalization/Scalization
+  8. Text Preprocessing: TF-IDF/Word2Vec/GloVec
+  9. Image Preprocessing: Upsampling/Downsampling
+  10. Deep Learning: Dropout/Batch Normalization/Layer Normalization/ReLU/Padding/Deconv
 
 ### 早（机器学习线）
 
@@ -47,7 +41,6 @@
 5. Bayesian (6.25)(including Bayesian Statistics on Youtube)
 6. Clustering(7.2 clustering analysis in data mining 可以上班时间看不用放到早上，早上)
 7. PCA (7.9)
-8. 文本挖掘GMM/PLSA/LDA(Text Mining and Analytics)(7.30)
 
 #### 2. CMU ML —— 1.1
 
@@ -119,6 +112,7 @@ $\color{red}{\mathbf {Bigoo!}}$
 * MLND (强化7.8)
 * Clustering (5.29 - 6.25)
 * Reinforment Learning: Blog and Materials (6.25 - 7.8)
+* NLP (Text Retrivel, Text Mining)
 
 #### 2. DLND review (5.31 - 7.27)
 
@@ -133,7 +127,7 @@ two course weeks per week
 * DL/Deep Learning Book Club
 * CS224n
 * CS231n
-* CS294
+* Oxford Deepnlp
 
 #### 4. Papers/Codes/Projects
 
@@ -160,7 +154,7 @@ two course weeks per week
 1. Java: Java Coursera & Thinking in Java & CS106A-> edX MIT & CS108 & Design Pattern
 2. Scala: Scala Coursera -> Functional Programming in Scala
 3. C/C++: CS106B -> CS107 & CS107(2014)-> CMU 15-418 & 并行编程入门
-4. CS: Operation System & CS 8803 & Udacity-Intro to Algorithms (GraphX) & 编程设计 & CSE 8803
+4. CS: Operation System & Udacity-Intro to Algorithms (GraphX) & 编程设计 & CSE 8803
 
 
 
