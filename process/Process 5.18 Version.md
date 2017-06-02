@@ -1,46 +1,17 @@
 # 明确下各学习线
 
-### All algorithms/tools you known
-
-1. 回归: Regression
-2. 分类: Logistic Regression/CART/Adaboost/Random Forest/GBDT/SVM/Navie Bayesian/Neural Network
-3. 实例: KNN
-4. 聚类: 
-   1. Distanced-based: k-means/k-medians/k-medoids/kernel k-means
-   2. Hierarchical: agglomerative/divisive/birch/cure/chameleon
-   3. Density-based: DBScan/optics
-   4. Grid-based: sting/clique
-   5. Others (from skicit-learn):
-5. 自然语言处理: 语言模型, MaxEnt/CRF, pLSA/LDA, w2v, CNN/RNN
-6. 推荐: CF-users/CF-items
-7. 概率图模型: MC/HMM/Bayesian Net/Markov Net/MCMC
-8. 图:
-9. 深度学习: CNN/RNN/LSTM/GRU/Seq2Seq/GANs/Autoencoder
-10. 工具箱:
-  1. Distribution: Bernoulli/Gaussian/Dirichlet
-  2. Loss: Huber Loss/Log Loss/RSS
-  3. Regularization: Lasso/Ridge/Elastic Net
-  4. Distance/Similarity:
-  5. Sampling: Gibbs Sampling
-  6. Algorithms: Gradient Descent/EM/Back Propagation
-  7. Data Preprocessing: One-hot Encoding/Deskew/Imputation/Standardization/Normalization/Scalization
-  8. Text Preprocessing: TF-IDF/Word2Vec/GloVec
-  9. Image Preprocessing: Upsampling/Downsampling
-  10. Deep Learning: Dropout/Batch Normalization/Layer Normalization/ReLU/Padding/Deconv
-
 ### 早（机器学习线）
 
 **除了1，2比较明晰，后面的并不绝对，MLAPP是永远的主线**
 
-#### 1. 以ML和MLND为线索，看MLAPP/统计学习基础/机器学习 —— 8.1
+#### 1. 以ML和MLND为线索，看MLAPP/统计学习基础/机器学习 —— 7.16
 
 1. Regression (5.12) $\color{red}{\mathbf {Bigoo!}}$
 2. Logistic Regression (5.19) $\color{red}{\mathbf {Bigoo!}}$
-3. Ensemble Learning: Tree Adaboost GBDT Random Forest(5.26 - 6.4, 机器学习技法)
-4. SVM (6.11) (机器学习技法)
-5. Bayesian (6.25)(including Bayesian Statistics on Youtube)
-6. Clustering(7.2 clustering analysis in data mining 可以上班时间看不用放到早上，早上)
-7. PCA (7.9)
+3. Ensemble Learning: Tree Adaboost GBDT Random Forest (5.26 - 6.18, 机器学习技法)
+4. SVM (6.25) (机器学习技法)
+5. Bayesian (7.9)(including Bayesian Statistics on Youtube)
+6. Clustering/PCA(7.16 clustering analysis in data mining 可以上班时间看不用放到早上，早上)
 
 #### 2. CMU ML —— 1.1
 
@@ -77,8 +48,8 @@
    5. LDA
 7. Coursera: Probabilistic Graphical Model
    1. Bayesian Net / Markov Net
-   2. MAP / MCMC / Sampling
-   3. MLE / BIC / EM 
+      1. MAP / MCMC / Sam	pling
+   2. MLE / BIC / EM 
 8. 10-708: Probabilistic Graphical Model (Advanced courses compared with Coursera)
 9. Harvard AM207 Stochastic Methods for Data Analysis, Inference and Optimization (Basic courses compared with Coursera)
    1. More details about MC, Bayesian and MCMC
