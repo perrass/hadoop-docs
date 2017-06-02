@@ -4,17 +4,56 @@
 
 **需要实现Python, C++, Spark(Scala)版本**
 
-**C++版本是8.31后，Spark版本是
+**C++版本是8.31后，Spark版本是9.21后**
 
 ### Process
 
-1. Regression -> Ridge and Lasso -> Steepest Descent/SGD/Adaptive/...
-2. Logistic Regression
-3. KNN
-4. Clustering
-5. Trees/Ensembles
-6. SVM
-7. Naive Bayesian
+|                      | Algorithms                               |
+| -------------------- | ---------------------------------------- |
+| Week1 6.2 - 6.8      | Linear Regression, Steepest Gradient Desent, Lasso, Ridge |
+| Week2 6.9-6.15       | SGDs                                     |
+| Week3 6.16-6.22      | Other Losses                             |
+| Week4 6.23-6.29      | Logistic Regression, Ridge               |
+| Week5 6.30 - 7.6     | Lasso                                    |
+| Week6 7.7 - 7.13     | KNN                                      |
+| Week7 7.14 - 7.20    | Partition-based                          |
+| Week8 7.21 - 7.27    | Hirechical                               |
+| Week9 7.28 - 8.3     | Density-based                            |
+| Week10 8.4 - 8.10    | Grid-based                               |
+| Week11 8.11 - 8.17   | Trees                                    |
+| Week12 8.18 - 8.24   | Bagging                                  |
+| Week13 8.25 - 8.31   | Random Forest                            |
+| Week14 9.1 - 9.7     | **Algorithms Lib C++ Begin **, Adaboost  |
+| Week15 9.8 - 9.14    | GBDT                                     |
+| Week16 9.15 - 9.21   | L2boost                                  |
+| Week17 9.28 - 10.5   | **Algorithms Lib Spark Begin**, Logitboost |
+| Week18 10.6 - 10.12  | Xgboost                                  |
+| Week19 10.13 - 10.19 | SVM                                      |
+| Week20 10.20 - 10.26 | Kernel SVM                               |
+| Week21 10.27 - 11.2  | Naive Bayesian                           |
+| Week22 11.3 - 11.9   | GMM                                      |
+| Week23 11.10 - 11.16 | pLSA                                     |
+| Week24 11.17 - 11.23 | LDA                                      |
+| Week25 11.24 - 11.30 | One-hot encoding                         |
+| Week26 12.1 - 12.7   | CF-items                                 |
+| Week27 12.8 - 12.14  | CF-users                                 |
+| Week28 12.15 - 12.21 | **NN Begin**                             |
+| Week29 12.22 - 12.28 |                                          |
+| Week30 12.29 - 1.4   |                                          |
+| Week31 1.5 - 1.11    |                                          |
+| Week32 1.12 - 1.18   |                                          |
+| Week33 1.19 - 1.25   |                                          |
+| Week34 1.26 - 2.1    |                                          |
+| Week35 2.2 - 2.8     |                                          |
+| Week36 2.9 - 2.15    |                                          |
+| Week37 2.16 - 2.22   |                                          |
+| Week38 2.23 - 3.1    | **Begin Jobbing**                        |
+| Week39 3.2 - 3.8     |                                          |
+| Week40 3.9 - 3.15    |                                          |
+| Week41 3.16 - 3.22   |                                          |
+| Week42 3.23 - 3.29   |                                          |
+
+
 
 ### All algorithms/tools you known
 

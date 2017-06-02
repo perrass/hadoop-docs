@@ -72,6 +72,7 @@
 * Scala: 2.4
 * MIT: L1/R1/L2/R2/L3/R3
 * CS106B: L1/L2/L3
+* Lib: Linear Regression/Lasso/Ridge
 * MLAPP: 统计学习方法/机器学习/机器学习技法/MLAPP 决策树与集成方法
 * 聚类: Coursera Week2/3/4; Udacity 特征转换/安然数据聚类/PCA; MLND Clustering
 * Siraj: Week2/3/4/5
@@ -82,6 +83,7 @@
 * Scala: 3.1
 * MIT: L4/R4/L5/R5
 * CS106B: L4/L5
+* Lib: SGDs
 * MLAPP: 决策树与集成方法/SVM
 * Udacity: 强化学习
 * Siraj: Week6/7/8
@@ -92,6 +94,7 @@
 * Scala: 3.2
 * MIT: L6/R6/L7/R7
 * CS106B: L6/L7
+* Lib: Linear with different loss
 * MLAPP: SVM
 * Udacity: 强化学习
 * Siraj: Week9/10/11
@@ -102,6 +105,7 @@
 * Scala: 3.3
 * MIT: L8/R8/L9/R9
 * CS106B: L8/L9
+* Lib: Logistic Regression
 * MLAPP: Bayesian
 * Udacity: 强化学习/6.S094
 * Siraj: Week12/13/14
