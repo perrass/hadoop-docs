@@ -14,24 +14,24 @@
 | Week10 8.4 - 8.10    |                                          |
 | Week11 8.11 - 8.17   |                                          |
 | Week12 8.18 - 8.24   | 6.006 -> 6.046                           |
-| Week13 8.25 - 8.31   | CS106B -> CS107 & Text Retrival          |
+| Week13 8.25 - 8.31   |                                          |
 | Week14 9.1 - 9.7     | **Algorithms Lib C++ Begin**             |
 | Week15 9.8 - 9.14    | CS231n & Opencv -> MLND Projects; Intermediate Statistics -> Convex Optimization |
 | Week16 9.15 - 9.21   | Coursera Scala -> Functional Programming in Scala & Hacker-rank |
-| Week17 9.28 - 10.5   | Text Retrival -> Text Mining; **Algorithms Lib Spark Begin** |
+| Week17 9.28 - 10.5   | **Algorithms Lib Spark Begin**           |
 | Week18 10.6 - 10.12  | MLND Projects -> CS224n                  |
-| Week19 10.13 - 10.19 |                                          |
+| Week19 10.13 - 10.19 | C++ Primer -> K & R; Text Retrieval & Mining |
 | Week20 10.20 - 10.26 |                                          |
-| Week21 10.27 - 11.2  | Text Mining -> Text Mining Related MLAPP |
+| Week21 10.27 - 11.2  |                                          |
 | Week22 11.3 - 11.9   |                                          |
 | Week23 11.10 - 11.16 | Coursera Java -> Thinking in Java; Convex Optimization -> Probabilisitic Graphical Model |
 | Week24 11.17 - 11.23 | 6.046 -> **LeetCode & Codewar**          |
 | Week25 11.24 - 11.30 |                                          |
-| Week26 12.1 - 12.7   | CS107 -> Parellel Programming & Operation System |
+| Week26 12.1 - 12.7   | K&R -> Parallel Programming & Operation System |
 | Week27 12.8 - 12.14  | DL Meet-up -> CS224n                     |
 | Week28 12.15 - 12.21 |                                          |
 | Week29 12.22 - 12.28 | CS224n -> **DL reviews and Topics**      |
-| Week30 12.29 - 1.4   | Probabilisitic Graphical Model -> **Advanced Intro to ML & ML Reviews** |
+| Week30 12.29 - 1.4   | PGM -> **Advanced Intro to ML & ML Reviews**; ; Text Retrieval & Mining -> Related MLAPP |
 | Week31 1.5 - 1.11    | Functional Programming in Scala -> **Algorithms Lib Python/C++/Spark** |
 | Week32 1.12 - 1.18   |                                          |
 | Week33 1.19 - 1.25   |                                          |
@@ -44,6 +44,7 @@
 | Week40 3.9 - 3.15    | Thinking in Java -> Design Pattern???    |
 | Week41 3.16 - 3.22   |                                          |
 | Week42 3.23 - 3.29   |                                          |
+| 待定                   | Text Retrieval, Text Mining              |
 
 ### Deadline
 
@@ -54,7 +55,7 @@
 
 ### Time
 
-* 早: MLAPP -> Intermediate Statistics -> Convex Opitmization -> PGM -> Advanced Intro to ML -> Statistical ML
+* 早: MLAPP -> Intermediate Statistics -> Convex Optimization -> PGM -> Advanced Intro to ML -> Statistical ML
 * 白: 
   * MLND courses -> MLND projects (6.S094 -> CS231n) -> CS224n
   * DLND Live -> Self-driving Cars & DL Meet-up -> Self-driving Cars & CS224n
@@ -63,49 +64,16 @@
 * 周末: 
   * Java -> Thinking in Java
   * Scala -> Functional Programming in Scala -> ML/Mllib/GraphX
-  * CS106B -> CS107 -> Operation System & Parellel Programming
+  * C++Primer -> K & R -> Operation System & Parallel Programming & CS106B & CS107
   * Projects
-
-### 6.2 - 6.9
-
-* Java: 1.5
-* Scala: 2.4
-* MIT: L1/R1/L2/R2/L3/R3
-* CS106B: L1/L2/L3
-* Lib: Linear Regression/Lasso/Ridge
-* MLAPP: 统计学习方法/机器学习/机器学习技法/MLAPP 决策树与集成方法
-* 聚类: Coursera Week2/3/4; Udacity 特征转换/安然数据聚类/PCA; MLND Clustering
-* Siraj: Week2/3/4/5
 
 ### 6.10 - 6.16
 
-* Java: 1.6
-* Scala: 3.1
-* MIT: L4/R4/L5/R5
-* CS106B: L4/L5
-* Lib: SGDs
-* MLAPP: 决策树与集成方法/SVM
-* Udacity: 强化学习
-* Siraj: Week6/7/8
-
-### 6.17 - 6.23
-
-* Java: 2.1
-* Scala: 3.2
-* MIT: L6/R6/L7/R7
-* CS106B: L6/L7
-* Lib: Linear with different loss
-* MLAPP: SVM
-* Udacity: 强化学习
-* Siraj: Week9/10/11
-
-### 6.24 - 6.30
-
-* Java: 2.2
-* Scala: 3.3
-* MIT: L8/R8/L9/R9
-* CS106B: L8/L9
-* Lib: Logistic Regression
-* MLAPP: Bayesian
-* Udacity: 强化学习/6.S094
-* Siraj: Week12/13/14
+* Java: 1.5, 1.6
+* Scala: 3.1, 2.4
+* 6.006: L4/R4/L5/R5
+* C++: Chap2
+* Thinking in Java: Intro to Objects
+* MLAPP:
+* MLND:
+* Siraj: W5/W6/W7
