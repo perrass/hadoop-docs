@@ -2,8 +2,8 @@
 
 |                      | 内容                                       |
 | -------------------- | ---------------------------------------- |
-| Week1 6.2 - 6.8      | **Algorithms Lib Python Begin**          |
-| Week2 6.9-6.15       |                                          |
+| Week1 6.2 - 6.8      | **Algorithms Lib Python Begin**, MLND Clustering -> A/B test |
+| Week2 6.9-6.15       | A/B test -> MLND RL                      |
 | Week3 6.16-6.22      |                                          |
 | Week4 6.23-6.29      | MLND Courses -> CS231n & Opencv          |
 | Week5 6.30 - 7.6     |                                          |

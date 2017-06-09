@@ -6,6 +6,14 @@
 
 **C++版本是8.31后，Spark版本是9.21后**
 
+### Module
+
+1. Linear/Logistic regression + SGD + Ridge/Lasso + Cost-sensitive
+2. Tree -> Adaboost -> Random Forest -> GBDT -> XGBoost -> Cost-sensitive
+3. Hard Margin Linear SVM -> Hard Margin Kernel SVM
+4. KNN (k-d tree)
+5. Clustering
+
 ### Process
 
 |                      | Algorithms                               |
