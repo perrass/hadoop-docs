@@ -27,33 +27,23 @@
    6. Nonlinear dim reduction
 3. 10-702: Statistical Machine Learning + The elements of statistical learning $\color{red}{\mathbf {The~third~course}}$
    1. Advanced and Statistical topics of 10-715
-4. 15-780: Graduate Artificial Intelligence
-   1. Search
-   2. Linear / Integer Programming
-   3. Machine / Deep Learning
-   4. Probabilistic Modeling
-   5. Game theory
-   6. Social Choice
-5. 10-725: Convex Optimization
+4. 10-725: Convex Optimization
    1. Fundamentals
    2. First-order methods
    3. Optimality and Duality $\color{red}{\mathbf {might~be~enough}}$
    4. Second-order methods
    5. Special topics
-6. 10-605: Machine Learning with Large Datasets (Spark)
+5. 10-605: Machine Learning with Large Datasets (Spark)
    1. Hadoop
    2. Parallel Perceptron
    3. SGD
    4. Graphs
    5. LDA
-7. Coursera: Probabilistic Graphical Model
+6. Coursera: Probabilistic Graphical Model
    1. Bayesian Net / Markov Net
-      1. MAP / MCMC / Sam	pling
-   2. MLE / BIC / EM 
-8. 10-708: Probabilistic Graphical Model (Advanced courses compared with Coursera)
-9. Harvard AM207 Stochastic Methods for Data Analysis, Inference and Optimization (Basic courses compared with Coursera)
-   1. More details about MC, Bayesian and MCMC
-   2. Time series / HMM / Gaussian Process
+   2. MAP / MCMC / Sampling
+   3. MLE / BIC / EM 
+7. 10-708: Probabilistic Graphical Model (Advanced courses compared with Coursera)
 
 #### 3. 源码学习 (写包玩！！！) ——3.1
 
