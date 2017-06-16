@@ -9,7 +9,7 @@
 1. Regression (5.12) $\color{red}{\mathbf {Bigoo!}}$
 2. Logistic Regression (5.19) $\color{red}{\mathbf {Bigoo!}}$
 3. Ensemble Learning: Tree Adaboost GBDT Random Forest (5.26 - 6.18, 机器学习技法)
-4. SVM (6.25) (机器学习技法)
+4. SVM (6.25) (机器学习技法)  $\color{red}{\mathbf {Bigoo!}}$
 5. Bayesian (7.9)(including Bayesian Statistics on Youtube)
 6. Clustering/PCA(7.16 clustering analysis in data mining 可以上班时间看不用放到早上，早上)
 
