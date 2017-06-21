@@ -83,12 +83,13 @@
 1. Nerual Network (6.16) $\color{red}{\mathbf {Bigoo!}}$
 2. Convolutional Nerual Network (6.22)
    1. MiniFlow (Google Tensorflow Paper) $\color{red}{\mathbf {Bigoo!}}$
-   2. Batch Normalization (BN)
-   3. CNN (AlexNet)
-   4. VGG 
-   5. GoogleNet
-   6. ResNet
-   7. Fine Tuning
+   2. DropOut $\color{red}{\mathbf {Bigoo!}}$
+   3. Batch Normalization (BN)
+   4. CNN (AlexNet)
+   5. VGG 
+   6. GoogleNet
+   7. ResNet
+   8. Fine Tuning
 3. Recurrent Nerual Network (7.13)
    1. RNN
    2. Word2Vec -> 实现skip-gram & CBOW
@@ -108,6 +109,8 @@
 
 1. Cluster (6.16) $\color{red}{\mathbf {Bigoo!}}$
 2. Reinforcement Learning (6.29)
+   1. **6.21 mod** Only do the project, Reinforcement Learning is a unique process
+   2. David Sliver's RL + CS231n -> Deep Reinforcement Learning
 3. Final Projects Proposal (8.26)
 4. CS231n & Final Projects (9.16)
 
