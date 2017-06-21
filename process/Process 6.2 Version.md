@@ -78,12 +78,31 @@
 5. Bayesian (7.9)(including Bayesian Statistics on Youtube)
 6. Clustering/PCA(7.16 clustering analysis in data mining 可以上班时间看不用放到早上，早上)
 
-#### 2. DLND Review
+#### 2. DLND Review and Paper Reading
 
 1. Nerual Network (6.16) $\color{red}{\mathbf {Bigoo!}}$
 2. Convolutional Nerual Network (6.22)
+   1. MiniFlow (Google Tensorflow Paper) $\color{red}{\mathbf {Bigoo!}}$
+   2. Batch Normalization (BN)
+   3. CNN (AlexNet)
+   4. VGG 
+   5. GoogleNet
+   6. ResNet
+   7. Fine Tuning
 3. Recurrent Nerual Network (7.13)
+   1. RNN
+   2. Word2Vec -> 实现skip-gram & CBOW
+   3. Sentiment RNN -> Compare with Bag of Words
+   4. TV Scripts
+   5. Seq2Seq
+   6. Chatbot
+   7. Reinforcement Learning
+   8. Language Translation
+   9. AutoEncoder
 4. Generative Adversarial Network (7.27)
+   1. GAN
+   2. DCGAN
+   3. Semi-supervised GAN
 
 #### 3. MLND
 
