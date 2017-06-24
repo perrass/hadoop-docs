@@ -43,7 +43,6 @@
    1. Bayesian Net / Markov Net
    2. MAP / MCMC / Sampling
    3. MLE / BIC / EM 
-7. 10-708: Probabilistic Graphical Model (Advanced courses compared with Coursera)
 
 #### 3. 源码学习 (写包玩！！！) ——3.1
 
