@@ -97,7 +97,8 @@
    5. VGG 
    6. Google-Net
    7. Res-Net
-   8. Fine Tuning
+   8. $1\times1$ conv
+   9. Fine Tuning
 3. Recurrent Neural Network (7.13)
    1. RNN
    2. Word2Vec -> 实现skip-gram & CBOW
