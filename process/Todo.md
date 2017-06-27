@@ -8,3 +8,7 @@
 
 [What paper introduced max norm regularization](https://stats.stackexchange.com/questions/230643/what-paper-introduced-max-norm-regularization-as-used-in-neural-network-trainin)
 
+6.27 From Network in Network
+
+Maxout Network
+
