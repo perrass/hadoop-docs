@@ -47,19 +47,18 @@
 | Week43 3.23 - 3.29   |                                          |
 | 待定                   | Text Retrieval, Text Mining, Rec-sys     |
 
-### Time
+### All your should do
 
-* 早: MLAPP ->  Convex Optimization -> PGM -> 10-601
-* 白: 
-  * MLND -> CS231n -> CS224n
-  * DLND Review -> DL Meet-up 
-  * Self-driving Cars 
-* 晚: 6.006 -> 6.046 -> LEETCODE
-* 周末: 
-  * Java -> Thinking in Java
-  * Scala -> Functional Programming in Scala
-  * C++Primer -> K & R -> Operation System & Parallel Programming & CS106B & CS107
-  * Jobbing (Blogs, Libs, Projects)
+* ML: MLAPP Books/机器学习技法/Convex optimization/PGM $\color{red}{\mathbf {Must!}}$
+* DL: DL Books/DL Books Meetup $\color{red}{\mathbf {Must!}}$
+* CV: CS231n $\color{red}{\mathbf {Must!}}$
+* NLP: CS224n/Text Retrieval/Text Mining
+* RL: RL/CS294
+* Algo: 6.006/6.046 $\color{red}{\mathbf {Must!}}$
+* Prog: C++/Java/Python/Scala $\color{red}{\mathbf {Must!}}$
+* Hadoop: Hive/Spark $\color{red}{\mathbf {Must!}}$
+* SCDND
+* MLND
 
 ### In detail
 
@@ -228,6 +227,7 @@ Focusing On Projects or **WHAT PROBLEM DO YOU WANT TO SOLVE ?** (12.15)
 3. RS $\color{red}{\mathbf {Todo!}}$
 4. KAGGLE **$\color{red}{\mathbf {To\ review\ other\ solutions!}}$**
 5. Algorithms Lib $\color{red}{\mathbf {Todo!}}$
+6. Recoding the papers, reports and blogs
 
 ### Domain
 
