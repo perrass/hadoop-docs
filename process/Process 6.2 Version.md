@@ -94,11 +94,12 @@
    2. Dropout $\color{red}{\mathbf {Bigoo!}}$
    3. Batch Normalization (BN)
    4. CNN (Alex-Net) $\color{red}{\mathbf {Bigoo!}}$
-   5. VGG 
-   6. Google-Net
-   7. Res-Net
-   8. $1\times1$ conv
-   9. Fine Tuning
+   5. VGG $\color{red}{\mathbf {Bigoo!}}$
+   6. Google-Net $\color{red}{\mathbf {Bigoo!}}$
+   7. Res-Net $\color{red}{\mathbf {Bigoo!}}$
+   8. $1\times1$ conv $\color{red}{\mathbf {Bigoo!}}$
+   9. Maxout $\color{red}{\mathbf {Bigoo!}}$
+   10. Fine Tuning
 3. Recurrent Neural Network (7.13)
    1. RNN
    2. Word2Vec -> 实现skip-gram & CBOW
@@ -106,9 +107,8 @@
    4. TV Scripts
    5. Seq2Seq
    6. Chat-bot
-   7. Reinforcement Learning
-   8. Language Translation
-   9. Auto-Encoder
+   7. Language Translation
+   8. Auto-Encoder
 4. Generative Adversarial Network (7.27)
    1. GAN
    2. DCGAN

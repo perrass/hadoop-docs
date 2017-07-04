@@ -8,7 +8,10 @@
 
 [What paper introduced max norm regularization](https://stats.stackexchange.com/questions/230643/what-paper-introduced-max-norm-regularization-as-used-in-neural-network-trainin)
 
-6.27 From Network in Network
+6.27 From Network in Network $\color{red}{\mathbf {Bigoo!}}$
 
-Maxout Network
+Maxout Network $\color{red}{\mathbf {Bigoo!}}$
 
+7.4 Color augmentation from ResNet
+
+Highway networks
