@@ -2,16 +2,16 @@
 
 ## Overview
 
-* Top: CS231n$\color{red}(8.27)$ 	-> CS224n -> RL -> CS294 $\color{red}(3.4)$
-* ML Theory $\color{red}(10.8)$        -> Review + Blog & Lib (C++/Spark)
-* DL $\color{red}(11.5)$                       -> Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
-* ML Related $\color{red}(12.31)$     -> Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
-* Algorithms $\color{red}(12.7)​$       -> Leetcode
+* Top: CS231n$\color{red}(8.27)$ 	  -> CS224n -> RL -> CS294 $\color{red}(3.4)$
+* ML Theory $\color{red}(10.8)$          -> **Jobbing:** Review + Blog & Lib (C++/Spark)
+* DL $\color{red}(11.5)$                         -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
+* ML Related $\color{red}(12.31)$       -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
+* Algorithms $\color{red}(12.7)$         -> **Jobbing:** Leetcode
 * SDCND $\color{red}(3.11)$
-* Scala $\color{red}(10.22)$                -> Functional Programming in Scala & GraphX
-* Java $\color{red}(12.10)$                  -> Thinking in Java
-* C++ $\color{red}(10.29)$                   -> K & R $\color{red}(12.10)$ -> Parallel Programming $\color{red}(3.4)$
-* MLND $\color{red}(9.20)$                 -> Vehicle Detection & Tracking -> Recode Papers + Blog & Lib
+* Scala $\color{red}(10.22)$                  -> Functional Programming in Scala & **Jobbing:** GraphX
+* Java $\color{red}(12.10)$                    -> Thinking in Java
+* C++ $\color{red}(10.29)$                     -> K & R $\color{red}(12.10)$ -> Parallel Programming $\color{red}(3.4)$
+* **Jobbing:** MLND $\color{red}(9.20)$ -> Vehicle Detection & Tracking -> Recode Papers + Blog & Lib
 
 ## Details
 
