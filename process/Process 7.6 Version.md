@@ -2,7 +2,7 @@
 
 ## Overview
 
-* Top: CS231n$\color{red}(8.27)$ 	  -> CS224n -> RL -> CS294 $\color{red}(3.4)$
+* Top: CS231n$\color{red}(8.27)$ 	  -> RL -> CS294 -> CS224n $\color{red}(3.4)$
 * ML Theory $\color{red}(10.8)$          -> **Jobbing:** Review + Blog & Lib (C++/Spark)
 * DL $\color{red}(11.5)$                         -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
 * ML Related $\color{red}(12.31)$       -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
@@ -33,7 +33,7 @@ CS231n: 一天Lec，一天Notes，到作业的时候集中写作业
 10. Assignment III
 11. Real World Use & Student spotlight talks $\color{red}(8.27)$
 
--> CS224n $\color{red}(10.29)$-> RL $\color{red}(12.1)$ -> CS294 $\color{red}(3.4)$
+-> RL $\color{red}(11.5)$ -> CS294 $\color{red}(2.4)$
 
 #### ML Theory 1h/d
 
@@ -185,4 +185,24 @@ MLND: Self-Driving Cars & Image Classification
 2. Proposal (8.30)
 3. Finish $\color{red}(9.20)$
 
--> SDCND: Vehicle Detection & Tracking / Papers / Blog & Lib
+-> SDCND: Vehicle Detection & Tracking -> Reinforcement Learning Projects -> Recommendation System
+
+## Projects
+
+### Company
+
+1. 风控系统预授信模型/授信模型 (cost-sensitive LR / cost-sensitive GBDT)(Python)
+2. 反欺诈产品 (graph algorithms)(Scala/Spark)
+3. 风险人群发现算法 (greedy sort/binary forest/RL)(Python)
+
+### Persona
+
+1. 无人驾驶方向
+   1. 图像分类
+   2. 目标检测
+   3. 6.s094
+   4. 强化学习
+2. 工作方向
+   1. 推荐系统
+   2. 论文复现
+   3. 手写算法包
