@@ -104,17 +104,18 @@ Books and Meetups
 
 #### Algorithms 2h/d
 
-1. Insertion Sort, Merge Sort & Heaps and Heap Sort (7.9)
-2. BST & AVL Trees (7.16)
-3. Counting Sort & Hashing with Chain
-4. Table Doubling, Karp-Rabin & Open Addressing, Crptographic Hashing
-5. Integer Arithmetic, Karatshbu Multiplication & Square Roots
-6. BFS & DFS, Topological Sort
-7. Single-Source Shortest Paths & Dijkstra
-8. Bellman-Ford & Speeding up Dijkstra
-9. Dynamic Programming I & II
-10. Dynamic Programming III & IV
-11. Computational Complexity & Topics in Algorithms Research $\color{red}(9.14)$
+1. Basic Data Structure & Chap10 & Recursion (7.16)
+2. Sorting and Searching & Insertion Sort, Merge Sort, Quick Sort, Heaps and Heap Sort (7.23)
+3. BST & AVL Trees 
+4. Counting Sort & Hashing with Chain
+5. Table Doubling, Karp-Rabin & Open Addressing, Crptographic Hashing
+6. Integer Arithmetic, Karatshbu Multiplication & Square Roots
+7. Graphs and Graph Algorithm & BFS & DFS, Topological Sort
+8. Graphs and Graph Algorithm & Single-Source Shortest Paths & Dijkstra
+9. Bellman-Ford & Speeding up Dijkstra
+10. Dynamic Programming I & II
+11. Dynamic Programming III & IV
+12. Computational Complexity & Topics in Algorithms Research $\color{red}(9.14)$
 
 -> 6.046 $\color{red}(12.7)$ -> Leetcode
 
@@ -122,11 +123,13 @@ Books and Meetups
 
 #### SDCND 2h/d
 
-1. Project1 (7.9)
-2. Traffic Sign Classifier (8.1)
-3. Behavioral Cloning (8.22)
-4. Advanced Lane Fining (9.5)
-5. Vehicle Detection and Tracking $\color{red}(9.19)$
+1. Lane Fining (7.16)
+2. DNN by Numpy (7.23)
+3. DNN by Miniflow (7.23)
+4. Traffic Sign Classifier (7.30)
+5. Behavioral Cloning (8.22)
+6. Advanced Lane Fining (9.5)
+7. Vehicle Detection and Tracking $\color{red}(9.19)$
 
 -> Sensor Fusion, Localization, and Control $\color{red}(12.17)$-> Path Planning, Concentrations, and Systems $\color{red}(3.11)$
 
