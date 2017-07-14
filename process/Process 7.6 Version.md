@@ -209,7 +209,7 @@ MLND: Self-Driving Cars & Image Classification
    2. 论文复现
    3. 手写算法包
 
-### Skill Sets
+## Skill Sets
 
 1. 计算机基础:
    1. 6.006/6.046
