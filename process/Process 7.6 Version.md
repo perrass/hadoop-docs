@@ -2,15 +2,15 @@
 
 ## Overview
 
-* Top: CS231n$\color{red}(8.27)$ 	  -> RL -> CS294 -> CS224n $\color{red}(3.4)$
+* Top: CS231n$\color{red}(8.27)$ 	  -> RL $\color{red}(11.5)$ > CS294 $\color{red}(2.4)$-> CS224n
 * ML Theory $\color{red}(10.8)$          -> **Jobbing:** Review + Blog & Lib (C++/Spark)
 * DL $\color{red}(11.5)$                         -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
 * ML Related $\color{red}(12.31)$       -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
 * Algorithms $\color{red}(12.7)$         -> **Jobbing:** Leetcode
-* SDCND $\color{red}(3.11)$
+* CarND $\color{red}(3.11)$
 * Scala $\color{red}(10.22)$                  -> Functional Programming in Scala & **Jobbing:** GraphX
 * Java $\color{red}(12.10)$                    -> Thinking in Java
-* C++ $\color{red}(10.29)$                     -> K & R $\color{red}(12.10)$ -> Parallel Programming $\color{red}(3.4)$
+* C++ $\color{red}(10.29)$                     -> K & R $\color{red}(12.10)$ & Design Pattern -> Parallel Programming $\color{red}(2.4)$ & Design Pattern
 * **Jobbing:** MLND $\color{red}(9.20)$ -> Vehicle Detection & Tracking -> Recode Papers + Blog & Lib
 
 ## Details
@@ -22,7 +22,7 @@
 CS231n: 一天Lec，一天Notes，到作业的时候集中写作业
 
 1. Intro & Image Classification (7.9) $\color{red}{\mathbf {Bigoo!}}$
-2. Loss functions, Optimization & Intro to NN (7.16)
+2. Loss functions, Optimization & Intro to NN (7.16) $\color{red}{\mathbf {Bigoo!}}$
 3. CNN & Training NN I
 4. Assignment I
 5. Training NN II & Deep Learning Software
@@ -41,7 +41,7 @@ CS231n: 一天Lec，一天Notes，到作业的时候集中写作业
 2. Chap8 Logistic Regression $\color{red}{\mathbf {Bigoo!}}$
 3. Chap14 Kernels $\color{red}{\mathbf {Bigoo!}}$
 4. Chap16 Adaptive basis function models $\color{red}{\mathbf {Bigoo!}}$
-5. Chap9 GLM (7.16)
+5. Chap9 GLM (7.16) $\color{red}{\mathbf {Bigoo!}}$
 6. Chap13 Sparse linear models
 7. Chap15 Gaussian processes
 8. Chap11 Mixture models and the EM algorithm
@@ -64,30 +64,29 @@ CS231n: 一天Lec，一天Notes，到作业的时候集中写作业
 Books and Meetups
 
 1. Chap2 Linear Algebrea (7.9) $\color{red}{\mathbf {Bigoo!}}$
-2. Probability and  Information Theory & Numerical Computation (7.16)
-3. Numerical Computation & Machine Learning Basics
-4. Deep Feedforward Networks
-5. Regularization for Deep Learning
-6. Optimization for Training Deep Models
-7. Convolutional Networks
-8. Sequence Modeling: Recurrent and Recursive Nets
-9. Practical Methodology
-10. Applications
-11. Linear Factor Models
-12. Autoencoders
-13. Representation Learning
-14. Structured Probabilisitc Models for Deep Learning
-15. Monte Carlo Methods
-16. Confronting the Partition Function
-17. Approximate Inference
-18. Deep Generative Models $\color{red}(11.5)$
+2. Probability and  Information Theory & Numerical Computation (7.16) $\color{red}{\mathbf {Bigoo!}}$
+3. Machine Learning Basics & Deep Feedforward Networks
+4. Regularization for Deep Learning
+5. Optimization for Training Deep Models
+6. Convolutional Networks
+7. Sequence Modeling: Recurrent and Recursive Nets
+8. Practical Methodology
+9. Applications
+10. Linear Factor Models
+11. Autoencoders
+12. Representation Learning
+13. Structured Probabilisitc Models for Deep Learning
+14. Monte Carlo Methods
+15. Confronting the Partition Function
+16. Approximate Inference
+17. Deep Generative Models $\color{red}(11.5)$
 
 -> Blog & Lib
 
 #### ML Related 1h/d
 
 1. Intro (7.9) $\color{red}{\mathbf {Bigoo!}}$
-2. Convexity I: Sets and functions & Convexity II: Optimization basics (7.16)
+2. Convexity I: Sets and functions & Convexity II: Optimization basics (7.16) $\color{red}{\mathbf {Bigoo!}}$
 3. Canoncial problem forms & Gradient descent
 4. Subgradient & Subgradient method
 5. Proximal gradient descent and acceleration & Proximal gradient descent and acceleration
@@ -104,7 +103,7 @@ Books and Meetups
 
 #### Algorithms 2h/d
 
-1. Basic Data Structure & Chap10 & Recursion (7.16)
+1. Basic Data Structure & Chap10 & Recursion (7.16) $\color{red}{\mathbf {Bigoo!}}$
 2. Sorting and Searching & Insertion Sort, Merge Sort, Quick Sort, Heaps and Heap Sort (7.23)
 3. BST & AVL Trees 
 4. Counting Sort & Hashing with Chain
@@ -121,7 +120,7 @@ Books and Meetups
 
 ### Nights
 
-#### SDCND 2h/d
+#### CarND 2h/d
 
 1. Lane Fining (7.16)
 2. DNN by Numpy (7.23)
@@ -158,7 +157,7 @@ Books and Meetups
 #### C++ 4h/w
 
 1. Getting Started  $\color{red}{\mathbf {Bigoo!}}$
-2. Variables and Basic Types & Strings, Vectors and Arrays (7.9)
+2. Variables and Basic Types & Strings, Vectors and Arrays (7.9) $\color{red}{\mathbf {Bigoo!}}$
 3. Expressions (7.16)
 4. Statements
 5. Functions
@@ -176,7 +175,7 @@ Books and Meetups
 17. Tools for Large Programs
 18. Specialized Tools and Techniques $\color{red}(10.29)$
 
--> K&R $\color{red}(12.10) $-> Parallel Programming & cuda (CS334) $\color{red}(3.4)$ -> Parallel Programming (15-418)
+-> K&R $\color{red}(12.10) $-> CUDA (CS334) $\color{red}(2.4)$ -> Parallel Programming (15-418)
 
 #### 6.006/SCDND 1h/d
 
@@ -188,7 +187,7 @@ MLND: Self-Driving Cars & Image Classification
 2. Proposal (8.30)
 3. Finish $\color{red}(9.20)$
 
--> SDCND: Vehicle Detection & Tracking -> Reinforcement Learning Projects -> Recommendation System
+-> CarND: Vehicle Detection & Tracking -> Reinforcement Learning Projects -> Recommendation System
 
 ## Projects
 
@@ -205,7 +204,22 @@ MLND: Self-Driving Cars & Image Classification
    2. 目标检测
    3. 6.s094
    4. 强化学习
-2. 工作方向
+2. 找工作方向
    1. 推荐系统
    2. 论文复现
    3. 手写算法包
+
+### Skill Sets
+
+1. 计算机基础:
+   1. 6.006/6.046
+   2. 并行计算/分布式编程
+   3. 设计模式
+   4. 操作系统
+2. 机器学习: 
+   1. 理论: 统计机器学习/最优化算法/神经网络/强化学习
+   2. 领域应用: 自然语言处理/图像/推荐/广告点击
+3. 数据处理:
+   1. 数据预处理: 特征抽取/特征选择
+   2. 平台: Spark/Hive
+   3. 包: Scikit-learn/Tensorflow/Numpy/OpenCV/Spark GraphX/Spark ML/Spark Mllib
