@@ -2,7 +2,9 @@
 
 ## Overview
 
-* Top: CS231n$\color{red}(8.27)$ 	  -> RL $\color{red}(11.5)$ > CS294 $\color{red}(2.4)$-> CS224n
+**优先级: 作业 > Coding > Notes & Paper > 记笔记 > 视频**
+
+* Top: CS231n$\color{red}(8.27)$ 	  -> RL $\color{red}(11.5)$ > 	CS294 $\color{red}(2.4)$-> CS224n
 * ML Theory $\color{red}(10.8)$          -> **Jobbing:** Review + Blog & Lib (C++/Spark)
 * DL $\color{red}(11.5)$                         -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
 * ML Related $\color{red}(12.31)$       -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
@@ -19,21 +21,18 @@
 
 #### Top 1h/d
 
-CS231n: 一天Lec，一天Notes，到作业的时候集中写作业
+CS231n:  明白Notes，然后Coding
 
 1. Intro & Image Classification (7.9) $\color{red}{\mathbf {Bigoo!}}$
 2. Loss functions, Optimization & Intro to NN (7.16) $\color{red}{\mathbf {Bigoo!}}$
-3. CNN & Training NN I
-4. Assignment I
-5. Training NN II & Deep Learning Software
-6. CNN Architectures & RNN
-7. Assignment II
-8. Detection and Segmentation & Visualizing and Understanding
-9. Generative Model & Deep RL
-10. Assignment III
-11. Real World Use & Student spotlight talks $\color{red}(8.27)$
+3. CNN & Training NN I & Training NN II 
+4. Assignment I & CNN Architectures & RNN
+5. Assignment II
+6. Detection and Segmentation & Visualizing and Understanding
+7. Generative Model & Deep RL
+8. Assignment III $\color{red}(8.27)$
 
--> RL $\color{red}(11.5)$ -> CS294 $\color{red}(2.4)$
+-> CS224n -> RL Basics -> CS294 $\color{red}(2.4)$
 
 #### ML Theory 1h/d
 
