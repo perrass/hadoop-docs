@@ -15,3 +15,9 @@ Maxout Network $\color{red}{\mathbf {Bigoo!}}$
 7.4 Color augmentation from ResNet
 
 Highway networks
+
+7.18 **Time-series Feature Engineering and Extraction**
+
+Time-series Feature Engineering
+
+https://www.youtube.com/watch?v=7X3Mh2ObNQI

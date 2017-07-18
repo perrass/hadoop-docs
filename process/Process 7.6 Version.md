@@ -6,8 +6,8 @@
 
 * Top: CS231n$\color{red}(8.27)$ 	  -> RL $\color{red}(11.5)$ > 	CS294 $\color{red}(2.4)$-> CS224n
 * ML Theory $\color{red}(10.8)$          -> **Jobbing:** Review + Blog & Lib (C++/Spark)
-* DL $\color{red}(11.5)$                         -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
-* ML Related $\color{red}(12.31)$       -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
+* DL $\color{red}(9.17)$                         -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
+* ML Related $\color{red}(12.31)​$       -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
 * Algorithms $\color{red}(12.7)$         -> **Jobbing:** Leetcode
 * CarND $\color{red}(3.11)$
 * Scala $\color{red}(10.22)$                  -> Functional Programming in Scala & **Jobbing:** GraphX
@@ -71,14 +71,8 @@ Books and Meetups
 7. Sequence Modeling: Recurrent and Recursive Nets
 8. Practical Methodology
 9. Applications
-10. Linear Factor Models
-11. Autoencoders
-12. Representation Learning
-13. Structured Probabilisitc Models for Deep Learning
-14. Monte Carlo Methods
-15. Confronting the Partition Function
-16. Approximate Inference
-17. Deep Generative Models $\color{red}(11.5)$
+10. Autoencoder
+11. Deep Generative Model $\color{red}(9.17)$
 
 -> Blog & Lib
 
