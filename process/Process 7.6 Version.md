@@ -4,16 +4,16 @@
 
 **优先级: 作业 > Coding > Notes & Paper > 记笔记 > 视频**
 
-* Top: CS231n$\color{red}(8.27)$ 	  -> RL $\color{red}(11.5)$ > 	CS294 $\color{red}(2.4)$-> CS224n
-* ML Theory $\color{red}(10.8)$          -> **Jobbing:** Review + Blog & Lib (C++/Spark)
-* DL $\color{red}(9.17)$                         -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
-* ML Related $\color{red}(12.31)​$       -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
-* Algorithms $\color{red}(12.7)$         -> **Jobbing:** Leetcode
-* CarND $\color{red}(3.11)$
-* Scala $\color{red}(10.22)$                  -> Functional Programming in Scala & **Jobbing:** GraphX
-* Java $\color{red}(12.10)$                    -> Thinking in Java
-* C++ $\color{red}(10.29)$                     -> K & R $\color{red}(12.10)$ & Design Pattern -> Parallel Programming $\color{red}(2.4)$ & Design Pattern
-* **Jobbing:** MLND $\color{red}(9.20)$ -> Vehicle Detection & Tracking -> Recode Papers + Blog & Lib
+* (M) Top: CS231n$\color{red}(8.27)$ 	  -> RL $\color{red}(11.5)$ > 	CS294 $\color{red}(2.4)$-> CS224n
+* (M) ML Theory $\color{red}(10.8)$          -> **Jobbing:** Review + Blog & Lib (C++/Spark)
+* (D) DL $\color{red}(9.17)$                         -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
+* (D) ML Related $\color{red}(12.31)$       -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
+* (D) CarND $\color{red}(3.11)$
+* (N) Algorithms & Hackerrank $\color{red}(12.7)$         -> **Jobbing:** Leetcode
+* (W) Scala $\color{red}(10.22)$                  -> Functional Programming in Scala & **Jobbing:** GraphX
+* (W) Java $\color{red}(12.10)$                    -> Thinking in Java
+* (W) C++ $\color{red}(10.29)$                     -> K & R $\color{red}(12.10)$ & Design Pattern -> Parallel Programming $\color{red}(2.4)$ & Design Pattern
+* (W) **Jobbing:** MLND $\color{red}(9.20)$ -> Vehicle Detection & Tracking -> Recode Papers + Blog & Lib
 
 ## Details
 
@@ -94,7 +94,7 @@ Books and Meetups
 
 -> PGM $\color{red}(12.31)$
 
-#### Algorithms 2h/d
+#### Algorithms 1h/d
 
 1. Basic Data Structure & Chap10 & Recursion (7.16) $\color{red}{\mathbf {Bigoo!}}$
 2. Sorting and Searching & Insertion Sort, Merge Sort, Quick Sort, Heaps and Heap Sort (7.23)
@@ -110,6 +110,43 @@ Books and Meetups
 12. Computational Complexity & Topics in Algorithms Research $\color{red}(9.14)$
 
 -> 6.046 $\color{red}(12.7)$ -> Leetcode
+
+#### Hackerrank 1h/d
+
+3-5 Problems / Day
+
+1. Arrays $\color{red}{\mathbf {Bigoo!}}$
+2. Stacks (9)
+3. Queues (5)
+4. Linked Lists (15)
+5. Heap (4)
+6. Trees (17)
+7. Balanced Trees (3)
+8. Sorting (18)
+9. Search (25)
+10. Graph Theory (62)
+11. String (45)
+12. Greedy (22)
+13. Dynamic Programming (97)
+14. Constructive Algorithms (11)
+15. Bit Manipulation (26)
+16. Recursion (11)
+17. Game Theory (32)
+18. NP Complete (4)
+19. Advanced Data Structure (48)
+
+Functional Programming
+
+1 Problem / Day
+
+1. Introduction (25)
+2. Recursion (19)
+3. Functional Structures (13)
+4. Memoization and DP (12)
+5. Persistent Structures (3)
+6. Ad Hoc (14)
+7. Parsers (2)
+8. Interpreter and Compilers (5)
 
 ### Nights
 
