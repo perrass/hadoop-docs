@@ -4,7 +4,7 @@
 
 **优先级: 作业 > Coding > Notes & Paper > 记笔记 > 视频**
 
-* (M) Top: CS231n$\color{red}(8.27)$ 	  -> RL $\color{red}(11.5)$ > 	CS294 $\color{red}(2.4)$-> CS224n
+* (M) Top: CS231n$\color{red}(9.3)$ 	  -> CS224n -> RL Basics > CS294
 * (M) ML Theory $\color{red}(10.8)$          -> **Jobbing:** Review + Blog & Lib (C++/Spark)
 * (D) DL $\color{red}(9.17)$                         -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
 * (D) ML Related $\color{red}(12.31)$       -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
@@ -25,14 +25,14 @@ CS231n:  明白Notes，然后Coding
 
 1. Intro & Image Classification (7.9) $\color{red}{\mathbf {Bigoo!}}$
 2. Loss functions, Optimization & Intro to NN (7.16) $\color{red}{\mathbf {Bigoo!}}$
-3. CNN & Training NN I & Training NN II 
-4. Assignment I & CNN Architectures & RNN
-5. Assignment II
-6. Detection and Segmentation & Visualizing and Understanding
+3. Training NN I & Training NN II & Assignment I (7.30)
+4. CNN Architectures & RNN
+5. Assignment II & Detection and Segmentation 
+6. Visualizing and Understanding
 7. Generative Model & Deep RL
-8. Assignment III $\color{red}(8.27)$
+8. Assignment III $\color{red}(9.3)$
 
--> CS224n -> RL Basics -> CS294 $\color{red}(2.4)$
+-> CS224n -> RL Basics -> CS294
 
 #### ML Theory 1h/d
 
@@ -41,7 +41,7 @@ CS231n:  明白Notes，然后Coding
 3. Chap14 Kernels $\color{red}{\mathbf {Bigoo!}}$
 4. Chap16 Adaptive basis function models $\color{red}{\mathbf {Bigoo!}}$
 5. Chap9 GLM (7.16) $\color{red}{\mathbf {Bigoo!}}$
-6. Chap13 Sparse linear models
+6. Chap13 Sparse linear models (7.23)
 7. Chap15 Gaussian processes
 8. Chap11 Mixture models and the EM algorithm
 9. Chap12 Latent linear models
@@ -64,7 +64,7 @@ Books and Meetups
 
 1. Chap2 Linear Algebrea (7.9) $\color{red}{\mathbf {Bigoo!}}$
 2. Probability and  Information Theory & Numerical Computation (7.16) $\color{red}{\mathbf {Bigoo!}}$
-3. Machine Learning Basics & Deep Feedforward Networks
+3. Machine Learning Basics & Deep Feedforward Networks (7.23)
 4. Regularization for Deep Learning
 5. Optimization for Training Deep Models
 6. Convolutional Networks
@@ -80,7 +80,7 @@ Books and Meetups
 
 1. Intro (7.9) $\color{red}{\mathbf {Bigoo!}}$
 2. Convexity I: Sets and functions & Convexity II: Optimization basics (7.16) $\color{red}{\mathbf {Bigoo!}}$
-3. Canoncial problem forms & Gradient descent
+3. Canoncial problem forms & Gradient descent (7.23)
 4. Subgradient & Subgradient method
 5. Proximal gradient descent and acceleration & Proximal gradient descent and acceleration
 6. Duality in linear programs & Duality in general programs
@@ -97,7 +97,7 @@ Books and Meetups
 #### Algorithms 1h/d
 
 1. Basic Data Structure & Chap10 & Recursion (7.16) $\color{red}{\mathbf {Bigoo!}}$
-2. Sorting and Searching & Insertion Sort, Merge Sort, Quick Sort, Heaps and Heap Sort (7.23)
+2. Sorting and Searching & Insertion Sort, Merge Sort, Quick Sort, Heaps and Heap Sort (7.30)
 3. BST & AVL Trees 
 4. Counting Sort & Hashing with Chain
 5. Table Doubling, Karp-Rabin & Open Addressing, Crptographic Hashing
@@ -188,7 +188,7 @@ Functional Programming
 
 1. Getting Started  $\color{red}{\mathbf {Bigoo!}}$
 2. Variables and Basic Types & Strings, Vectors and Arrays (7.9) $\color{red}{\mathbf {Bigoo!}}$
-3. Expressions (7.16)
+3. Expressions (7.23)
 4. Statements
 5. Functions
 6. Classes
