@@ -15,6 +15,14 @@
 * (W) C++ $\color{red}(10.29)$                     -> K & R $\color{red}(12.10)$ & Design Pattern -> Parallel Programming $\color{red}(2.4)$ & Design Pattern
 * (W) **Jobbing:** MLND $\color{red}(9.20)$ -> Vehicle Detection & Tracking -> Recode Papers + Blog & Lib
 
+## What must you do in one day and one week ???
+
+**Coding** from CarND, Algorithms, and hackerrank, even though you can only sleep three hours.
+
+**Coding** from Coursera and programming books
+
+**80 hours / week is not a big deal**
+
 ## Details
 
 ### Morning
@@ -41,7 +49,7 @@ CS231n:  明白Notes，然后Coding
 3. Chap14 Kernels $\color{red}{\mathbf {Bigoo!}}$
 4. Chap16 Adaptive basis function models $\color{red}{\mathbf {Bigoo!}}$
 5. Chap9 GLM (7.16) $\color{red}{\mathbf {Bigoo!}}$
-6. Chap13 Sparse linear models (7.23)
+6. Chap13 Sparse linear models (7.23) $\color{red}{\mathbf {Bigoo!}}$
 7. Chap15 Gaussian processes
 8. Chap11 Mixture models and the EM algorithm
 9. Chap12 Latent linear models
@@ -80,7 +88,7 @@ Books and Meetups
 
 1. Intro (7.9) $\color{red}{\mathbf {Bigoo!}}$
 2. Convexity I: Sets and functions & Convexity II: Optimization basics (7.16) $\color{red}{\mathbf {Bigoo!}}$
-3. Canoncial problem forms & Gradient descent (7.23)
+3. Canoncial problem forms & Gradient descent (7.23) $\color{red}{\mathbf {Bigoo!}}$
 4. Subgradient & Subgradient method
 5. Proximal gradient descent and acceleration & Proximal gradient descent and acceleration
 6. Duality in linear programs & Duality in general programs
@@ -92,7 +100,7 @@ Books and Meetups
 12. Frank-Wolfe method & Coordinate descent
 13. Mixed integer programming & Mixed integer programming $\color{red}(10.8)$
 
--> PGM $\color{red}(12.31)$
+-> PGM $\color{red}(12.31)$ -> Jobbing -> 10-705
 
 #### Algorithms 1h/d
 
