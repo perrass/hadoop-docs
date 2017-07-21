@@ -72,15 +72,16 @@ Books and Meetups
 
 1. Chap2 Linear Algebrea (7.9) $\color{red}{\mathbf {Bigoo!}}$
 2. Probability and  Information Theory & Numerical Computation (7.16) $\color{red}{\mathbf {Bigoo!}}$
-3. Machine Learning Basics & Deep Feedforward Networks (7.23)
-4. Regularization for Deep Learning
-5. Optimization for Training Deep Models
-6. Convolutional Networks
-7. Sequence Modeling: Recurrent and Recursive Nets
-8. Practical Methodology
-9. Applications
-10. Autoencoder
-11. Deep Generative Model $\color{red}(9.17)$
+3. Machine Learning Basics (7.23) $\color{red}{\mathbf {Bigoo!}}$
+4. Deep Feedforward Networks )
+5. Regularization for Deep Learning
+6. Optimization for Training Deep Models
+7. Convolutional Networks
+8. Sequence Modeling: Recurrent and Recursive Nets
+9. Practical Methodology
+10. Applications
+11. Autoencoder
+12. Deep Generative Model $\color{red}(9.17)$
 
 -> Blog & Lib
 
@@ -244,8 +245,9 @@ MLND: Self-Driving Cars & Image Classification
    4. 强化学习
 2. 找工作方向
    1. 推荐系统
-   2. 论文复现
-   3. 手写算法包
+   2. 点击率预测: LR, GBDT, MLR, FFM & 做特征
+   3. 论文复现
+   4. 手写算法包
 
 ## Skill Sets
 

@@ -1,4 +1,4 @@
-# Blog and Library
+# Blog and Projects
 
 Contents:
 
@@ -7,7 +7,7 @@ Contents:
 3. Source Code Notes
 4. Summary
 
-#### Summary
+#### Blog
 
 The process of summary: **Statisitcal Machine Learning**
 
@@ -29,7 +29,7 @@ The process of summary: **Deep Learning**
 5. RL: DQN
 6. Tech: Dropout, BN, ReLU
 
-#### Libs
+#### Projects: Libs
 
 Python: 通过几行代码可以自动对比模型结果
 
@@ -49,3 +49,21 @@ The modual of libs:
 5. Data Preprocessing
 
 C++/Spark: 实现部分功能
+
+#### Projects: CTR Prediction
+
+1. LR/MLR/GBDT/FFM
+2. 做特征
+
+#### Projects: Recommendation System
+
+1. Item-CF, User-CF
+2. Combine CNN/RNN
+
+#### Projects: Image Classification
+
+1. CNN Recoding
+2. Image augmentation
+
+#### Projects: CarND related
+
