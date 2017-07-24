@@ -25,83 +25,7 @@
 
 ## Details
 
-### Morning
-
-#### Top 1h/d
-
-CS231n:  明白Notes，然后Coding
-
-1. Intro & Image Classification (7.9) $\color{red}{\mathbf {Bigoo!}}$
-2. Loss functions, Optimization & Intro to NN (7.16) $\color{red}{\mathbf {Bigoo!}}$
-3. Training NN I & Training NN II & Assignment I (7.30)
-4. CNN Architectures & RNN
-5. Assignment II & Detection and Segmentation 
-6. Visualizing and Understanding
-7. Generative Model & Deep RL
-8. Assignment III $\color{red}(9.3)$
-
--> CS224n -> RL Basics -> CS294
-
-#### ML Theory 1h/d
-
-1. Chap7 Linear Regression $\color{red}{\mathbf {Bigoo!}}$
-2. Chap8 Logistic Regression $\color{red}{\mathbf {Bigoo!}}$
-3. Chap14 Kernels $\color{red}{\mathbf {Bigoo!}}$
-4. Chap16 Adaptive basis function models $\color{red}{\mathbf {Bigoo!}}$
-5. Chap9 GLM (7.16) $\color{red}{\mathbf {Bigoo!}}$
-6. Chap13 Sparse linear models (7.23) $\color{red}{\mathbf {Bigoo!}}$
-7. Chap15 Gaussian processes
-8. Chap11 Mixture models and the EM algorithm
-9. Chap12 Latent linear models
-10. Chap25 Clustering
-11. Chap27 Latent variable models for discrete data
-12. Chap10 Directed Graphical Models
-13. Chap17 Markov and hidden Markov models
-14. Chap19 Undirected graphical models
-15. Chap23 Monte Carlo inference
-16. Chap24 Markov chain Monte Carlo inference
-17. Chap26 Graphical Model structure learning $\color{red}(10.8)$
-
--> Blog & Lib
-
-### Day
-
-#### Deep Learning 1h/d
-
-Books and Meetups
-
-1. Chap2 Linear Algebrea (7.9) $\color{red}{\mathbf {Bigoo!}}$
-2. Probability and  Information Theory & Numerical Computation (7.16) $\color{red}{\mathbf {Bigoo!}}$
-3. Machine Learning Basics (7.23) $\color{red}{\mathbf {Bigoo!}}$
-4. Deep Feedforward Networks )
-5. Regularization for Deep Learning
-6. Optimization for Training Deep Models
-7. Convolutional Networks
-8. Sequence Modeling: Recurrent and Recursive Nets
-9. Practical Methodology
-10. Applications
-11. Autoencoder
-12. Deep Generative Model $\color{red}(9.17)$
-
--> Blog & Lib
-
-#### ML Related 1h/d
-
-1. Intro (7.9) $\color{red}{\mathbf {Bigoo!}}$
-2. Convexity I: Sets and functions & Convexity II: Optimization basics (7.16) $\color{red}{\mathbf {Bigoo!}}$
-3. Canoncial problem forms & Gradient descent (7.23) $\color{red}{\mathbf {Bigoo!}}$
-4. Subgradient & Subgradient method
-5. Proximal gradient descent and acceleration & Proximal gradient descent and acceleration
-6. Duality in linear programs & Duality in general programs
-7. KKT conditions & Duality uses and correspondences
-8. Netwon's method & Barrier method
-9. Duality revisited & Primal-dual interior point methods
-10. Quasi-Netwon methods & Proximal Netwon method
-11. Dual methods & Alternating direction method of multipliers
-12. Frank-Wolfe method & Coordinate descent
-13. Mixed integer programming & Mixed integer programming $\color{red}(10.8)$
-
--> PGM $\color{red}(12.31)$ -> Jobbing -> 10-705
+### Morning (7.00 - 9.30)
 
 #### Algorithms 1h/d
 
@@ -157,7 +81,7 @@ Functional Programming
 7. Parsers (2)
 8. Interpreter and Compilers (5)
 
-### Nights
+### Day
 
 #### CarND 2h/d
 
@@ -170,6 +94,82 @@ Functional Programming
 7. Vehicle Detection and Tracking $\color{red}(9.19)$
 
 -> Sensor Fusion, Localization, and Control $\color{red}(12.17)$-> Path Planning, Concentrations, and Systems $\color{red}(3.11)$
+
+#### ML Theory 1h/d
+
+1. Chap7 Linear Regression $\color{red}{\mathbf {Bigoo!}}$
+2. Chap8 Logistic Regression $\color{red}{\mathbf {Bigoo!}}$
+3. Chap14 Kernels $\color{red}{\mathbf {Bigoo!}}$
+4. Chap16 Adaptive basis function models $\color{red}{\mathbf {Bigoo!}}$
+5. Chap9 GLM (7.16) $\color{red}{\mathbf {Bigoo!}}$
+6. Chap13 Sparse linear models (7.23) $\color{red}{\mathbf {Bigoo!}}$
+7. Chap15 Gaussian processes
+8. Chap11 Mixture models and the EM algorithm
+9. Chap12 Latent linear models
+10. Chap25 Clustering
+11. Chap27 Latent variable models for discrete data
+12. Chap10 Directed Graphical Models
+13. Chap17 Markov and hidden Markov models
+14. Chap19 Undirected graphical models
+15. Chap23 Monte Carlo inference
+16. Chap24 Markov chain Monte Carlo inference
+17. Chap26 Graphical Model structure learning $\color{red}(10.8)$
+
+-> Blog & Lib
+
+#### ML Related 1h/d
+
+1. Intro (7.9) $\color{red}{\mathbf {Bigoo!}}$
+2. Convexity I: Sets and functions & Convexity II: Optimization basics (7.16) $\color{red}{\mathbf {Bigoo!}}$
+3. Canoncial problem forms & Gradient descent (7.23) $\color{red}{\mathbf {Bigoo!}}$
+4. Subgradient & Subgradient method
+5. Proximal gradient descent and acceleration & Proximal gradient descent and acceleration
+6. Duality in linear programs & Duality in general programs
+7. KKT conditions & Duality uses and correspondences
+8. Netwon's method & Barrier method
+9. Duality revisited & Primal-dual interior point methods
+10. Quasi-Netwon methods & Proximal Netwon method
+11. Dual methods & Alternating direction method of multipliers
+12. Frank-Wolfe method & Coordinate descent
+13. Mixed integer programming & Mixed integer programming $\color{red}(10.8)$
+
+-> PGM $\color{red}(12.31)$ -> Jobbing -> 10-705
+
+### Nights (7.00 -> 10.00)
+
+#### Top 1h/d
+
+CS231n:  明白Notes，然后Coding
+
+1. Intro & Image Classification (7.9) $\color{red}{\mathbf {Bigoo!}}$
+2. Loss functions, Optimization & Intro to NN (7.16) $\color{red}{\mathbf {Bigoo!}}$
+3. Training NN I & Training NN II & Assignment I (7.30)
+4. CNN Architectures & RNN
+5. Assignment II & Detection and Segmentation 
+6. Visualizing and Understanding
+7. Generative Model & Deep RL
+8. Assignment III $\color{red}(9.3)$
+
+-> CS224n -> RL Basics -> CS294
+
+#### Deep Learning 1h/d
+
+Books and Meetups
+
+1. Chap2 Linear Algebrea (7.9) $\color{red}{\mathbf {Bigoo!}}$
+2. Probability and  Information Theory & Numerical Computation (7.16) $\color{red}{\mathbf {Bigoo!}}$
+3. Machine Learning Basics (7.23) $\color{red}{\mathbf {Bigoo!}}$
+4. Deep Feedforward Networks )
+5. Regularization for Deep Learning
+6. Optimization for Training Deep Models
+7. Convolutional Networks
+8. Sequence Modeling: Recurrent and Recursive Nets
+9. Practical Methodology
+10. Applications
+11. Autoencoder
+12. Deep Generative Model $\color{red}(9.17)$
+
+-> Blog & Lib
 
 ### Weekends
 
