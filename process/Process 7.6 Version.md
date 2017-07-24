@@ -27,7 +27,7 @@
 
 ### Morning (7.00 - 9.30)
 
-#### Algorithms 1h/d
+#### Algorithms + Python 1h/d
 
 1. Basic Data Structure & Chap10 & Recursion (7.16) $\color{red}{\mathbf {Bigoo!}}$
 2. Sorting and Searching & Insertion Sort, Merge Sort, Quick Sort, Heaps and Heap Sort (7.30)
@@ -44,7 +44,7 @@
 
 -> 6.046 $\color{red}(12.7)$ -> Leetcode
 
-#### Hackerrank 1h/d
+#### Hackerrank & C++/Scala Data Structure 1h/d
 
 3-5 Problems / Day
 
