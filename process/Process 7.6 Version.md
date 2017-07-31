@@ -27,6 +27,29 @@
 
 ### Morning (7.00 - 9.30)
 
+#### C++ 1h/w
+
+1. Getting Started  $\color{red}{\mathbf {Bigoo!}}$
+2. Variables and Basic Types & Strings, Vectors and Arrays (7.9) $\color{red}{\mathbf {Bigoo!}}$
+3. Expressions (7.23)
+4. Statements
+5. Functions
+6. Classes
+7. The IO Library
+8. Sequential Containers
+9. Generic Algorithms
+10. Associative Containers
+11. Dynamic Memory
+12. Copy Control
+13. Overloaded Operations and Conversions
+14. Objected-Oriented Programming
+15. Templates and Generic Programming
+16. Specialized Library Facilities
+17. Tools for Large Programs
+18. Specialized Tools and Techniques $\color{red}(10.29)$
+
+-> K&R $\color{red}(12.10) $-> CUDA (CS334) $\color{red}(2.4)$ -> Parallel Programming (15-418)
+
 #### Algorithms + Python 1h/d
 
 1. Basic Data Structure & Chap10 & Recursion (7.16) $\color{red}{\mathbf {Bigoo!}}$
@@ -44,56 +67,7 @@
 
 -> 6.046 $\color{red}(12.7)$ -> Leetcode
 
-#### Hackerrank & C++/Scala Data Structure 1h/d
-
-3-5 Problems / Day
-
-1. Arrays $\color{red}{\mathbf {Bigoo!}}$
-2. Stacks (9)
-3. Queues (5)
-4. Linked Lists (15)
-5. Heap (4)
-6. Trees (17)
-7. Balanced Trees (3)
-8. Sorting (18)
-9. Search (25)
-10. Graph Theory (62)
-11. String (45)
-12. Greedy (22)
-13. Dynamic Programming (97)
-14. Constructive Algorithms (11)
-15. Bit Manipulation (26)
-16. Recursion (11)
-17. Game Theory (32)
-18. NP Complete (4)
-19. Advanced Data Structure (48)
-
-Functional Programming
-
-1 Problem / Day
-
-1. Introduction (25)
-2. Recursion (19)
-3. Functional Structures (13)
-4. Memoization and DP (12)
-5. Persistent Structures (3)
-6. Ad Hoc (14)
-7. Parsers (2)
-8. Interpreter and Compilers (5)
-
 ### Day
-
-#### CarND 2h/d
-
-1. Lane Fining (7.16)
-2. DNN by Numpy (7.23)
-3. DNN by Miniflow (7.23)
-4. Traffic Sign Classifier (7.30)
-5. Behavioral Cloning (8.22)
-6. Advanced Lane Fining (9.5)
-7. Vehicle Detection and Tracking $\color{red}(9.19)$
-
--> Sensor Fusion, Localization, and Control $\color{red}(12.17)$-> Path Planning, Concentrations, and Systems $\color{red}(3.11)$
 
 #### ML Theory 1h/d
 
@@ -103,11 +77,11 @@ Functional Programming
 4. Chap16 Adaptive basis function models $\color{red}{\mathbf {Bigoo!}}$
 5. Chap9 GLM (7.16) $\color{red}{\mathbf {Bigoo!}}$
 6. Chap13 Sparse linear models (7.23) $\color{red}{\mathbf {Bigoo!}}$
-7. Chap15 Gaussian processes
-8. Chap11 Mixture models and the EM algorithm
-9. Chap12 Latent linear models
-10. Chap25 Clustering
-11. Chap27 Latent variable models for discrete data
+7. Chap11 Mixture models and the EM algorithm
+8. Chap12 Latent linear models
+9. Chap25 Clustering
+10. Chap27 Latent variable models for discrete data
+11. Todo Blogging and Lib, Waiting for PGM
 12. Chap10 Directed Graphical Models
 13. Chap17 Markov and hidden Markov models
 14. Chap19 Undirected graphical models
@@ -134,8 +108,6 @@ Functional Programming
 13. Mixed integer programming & Mixed integer programming $\color{red}(10.8)$
 
 -> PGM $\color{red}(12.31)$ -> Jobbing -> 10-705
-
-### Nights (7.00 -> 10.00)
 
 #### Top 1h/d
 
@@ -171,6 +143,20 @@ Books and Meetups
 
 -> Blog & Lib
 
+### Nights
+
+#### CarND 2h/d
+
+1. Lane Fining (7.16)
+2. DNN by Numpy (7.23)
+3. DNN by Miniflow (7.23)
+4. Traffic Sign Classifier (7.30)
+5. Behavioral Cloning (8.22)
+6. Advanced Lane Fining (9.5)
+7. Vehicle Detection and Tracking $\color{red}(9.19)$
+
+-> Sensor Fusion, Localization, and Control $\color{red}(12.17)$-> Path Planning, Concentrations, and Systems $\color{red}(3.11)$
+
 ### Weekends
 
 #### Scala 4h/w
@@ -192,29 +178,6 @@ Books and Meetups
 5. Analyzing Social Network Data (12.10)
 
 -> Thinking in Java 
-
-#### C++ 4h/w
-
-1. Getting Started  $\color{red}{\mathbf {Bigoo!}}$
-2. Variables and Basic Types & Strings, Vectors and Arrays (7.9) $\color{red}{\mathbf {Bigoo!}}$
-3. Expressions (7.23)
-4. Statements
-5. Functions
-6. Classes
-7. The IO Library
-8. Sequential Containers
-9. Generic Algorithms
-10. Associative Containers
-11. Dynamic Memory
-12. Copy Control
-13. Overloaded Operations and Conversions
-14. Objected-Oriented Programming
-15. Templates and Generic Programming
-16. Specialized Library Facilities
-17. Tools for Large Programs
-18. Specialized Tools and Techniques $\color{red}(10.29)$
-
--> K&R $\color{red}(12.10) $-> CUDA (CS334) $\color{red}(2.4)$ -> Parallel Programming (15-418)
 
 #### 6.006/SCDND 1h/d
 
