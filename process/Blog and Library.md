@@ -1,11 +1,11 @@
 # Blog and Projects
 
-Contents:
+Blog Contents:
 
-1. Books/Courses Notes
-2. Papers Notes
-3. Source Code Notes
-4. Summary
+1. MLAPP
+2. 10-601/10-715 Notes/CS229
+3. Other courses: Washington Uni/10-725/机器学习技法
+4. Codes
 
 #### Blog
 

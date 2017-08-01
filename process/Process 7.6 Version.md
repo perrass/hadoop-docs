@@ -4,16 +4,17 @@
 
 **优先级: 作业 > Coding > Notes & Paper > 记笔记 > 视频**
 
-* (M) Top: CS231n$\color{red}(9.3)$ 	  -> CS224n -> RL Basics > CS294
+* (M) Top: CS231n$\color{red}(9.10)$ 	  -> RL Basics > CS294 -> CS224n
 * (M) ML Theory $\color{red}(10.8)$          -> **Jobbing:** Review + Blog & Lib (C++/Spark)
 * (D) DL $\color{red}(9.17)$                         -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
-* (D) ML Related $\color{red}(12.31)$       -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
+* (D) ML Related $\color{red}(11.26)$       -> **Jobbing:** Review + Papers + Blog & Lib (C++/Spark) + Tensorflow 
 * (D) CarND $\color{red}(3.11)$
-* (N) Algorithms & Hackerrank $\color{red}(12.7)$         -> **Jobbing:** Leetcode
+* (N) Algorithms                      -> **Jobbing:** Leetcode
 * (W) Scala $\color{red}(10.22)$                  -> Functional Programming in Scala & **Jobbing:** GraphX
 * (W) Java $\color{red}(12.10)$                    -> Thinking in Java
 * (W) C++ $\color{red}(10.29)$                     -> K & R $\color{red}(12.10)$ & Design Pattern -> Parallel Programming $\color{red}(2.4)$ & Design Pattern
-* (W) **Jobbing:** MLND $\color{red}(9.20)$ -> Vehicle Detection & Tracking -> Recode Papers + Blog & Lib
+* (W) CS106b -> CS107
+* (W) MLND $\color{red}(9.20)$ -> Vehicle Detection & Tracking -> Recode Papers + Blog & Lib
 
 ## What must you do in one day and one week ???
 
@@ -27,33 +28,24 @@
 
 ### Morning (7.00 - 9.30)
 
-#### C++ 1h/w
+#### CS106b
 
-1. Getting Started  $\color{red}{\mathbf {Bigoo!}}$
-2. Variables and Basic Types & Strings, Vectors and Arrays (7.9) $\color{red}{\mathbf {Bigoo!}}$
-3. Expressions (7.23)
-4. Statements
-5. Functions
-6. Classes
-7. The IO Library
-8. Sequential Containers
-9. Generic Algorithms
-10. Associative Containers
-11. Dynamic Memory
-12. Copy Control
-13. Overloaded Operations and Conversions
-14. Objected-Oriented Programming
-15. Templates and Generic Programming
-16. Specialized Library Facilities
-17. Tools for Large Programs
-18. Specialized Tools and Techniques $\color{red}(10.29)$
+1. Lec2/Lec3/Lec4 (8.6)
+2. Lec5/Lec6/Lec7
+3. Lec8/Lec9/Lec10
+4. Lec11/Lec12/Lec13
+5. Lec14/Lec15/Lec16
+6. Lec17/Lec18/Lec19
+7. Lec20/Lec21/Lec22
+8. Lec23/Lec24/Lec25
+9. Lec26/Lec27
 
--> K&R $\color{red}(12.10) $-> CUDA (CS334) $\color{red}(2.4)$ -> Parallel Programming (15-418)
+-> CS107
 
 #### Algorithms + Python 1h/d
 
 1. Basic Data Structure & Chap10 & Recursion (7.16) $\color{red}{\mathbf {Bigoo!}}$
-2. Sorting and Searching & Insertion Sort, Merge Sort, Quick Sort, Heaps and Heap Sort (7.30)
+2. Sorting and Searching & Insertion Sort, Merge Sort, Quick Sort, Heaps and Heap Sort (8.6)
 3. BST & AVL Trees 
 4. Counting Sort & Hashing with Chain
 5. Table Doubling, Karp-Rabin & Open Addressing, Crptographic Hashing
@@ -77,7 +69,7 @@
 4. Chap16 Adaptive basis function models $\color{red}{\mathbf {Bigoo!}}$
 5. Chap9 GLM (7.16) $\color{red}{\mathbf {Bigoo!}}$
 6. Chap13 Sparse linear models (7.23) $\color{red}{\mathbf {Bigoo!}}$
-7. Chap11 Mixture models and the EM algorithm
+7. Chap11 Mixture models and the EM algorithm (8.6) $\color{red}{\mathbf {Bigoo!}}$
 8. Chap12 Latent linear models
 9. Chap25 Clustering
 10. Chap27 Latent variable models for discrete data
@@ -96,18 +88,13 @@
 1. Intro (7.9) $\color{red}{\mathbf {Bigoo!}}$
 2. Convexity I: Sets and functions & Convexity II: Optimization basics (7.16) $\color{red}{\mathbf {Bigoo!}}$
 3. Canoncial problem forms & Gradient descent (7.23) $\color{red}{\mathbf {Bigoo!}}$
-4. Subgradient & Subgradient method
-5. Proximal gradient descent and acceleration & Proximal gradient descent and acceleration
-6. Duality in linear programs & Duality in general programs
-7. KKT conditions & Duality uses and correspondences
-8. Netwon's method & Barrier method
-9. Duality revisited & Primal-dual interior point methods
-10. Quasi-Netwon methods & Proximal Netwon method
-11. Dual methods & Alternating direction method of multipliers
-12. Frank-Wolfe method & Coordinate descent
-13. Mixed integer programming & Mixed integer programming $\color{red}(10.8)$
+4. Subgradient & Subgradient method (7.30) $\color{red}{\mathbf {Bigoo!}}$
+5. Proximal gradient descent and acceleration & Proximal gradient descent and acceleration (8.6)  $\color{red}{\mathbf {Bigoo!}}$
+6. Duality in linear programs & Duality in general programs (8.13)
+7. KKT conditions & Duality uses and correspondences (8.20)
+8. Netwon's method & Coordinate descent (8.27)
 
--> PGM $\color{red}(12.31)$ -> Jobbing -> 10-705
+-> PGM $\color{red}(11.26)$ -> Jobbing -> 10-705
 
 #### Top 1h/d
 
@@ -115,14 +102,15 @@ CS231n:  明白Notes，然后Coding
 
 1. Intro & Image Classification (7.9) $\color{red}{\mathbf {Bigoo!}}$
 2. Loss functions, Optimization & Intro to NN (7.16) $\color{red}{\mathbf {Bigoo!}}$
-3. Training NN I & Training NN II & Assignment I (7.30)
-4. CNN Architectures & RNN
-5. Assignment II & Detection and Segmentation 
-6. Visualizing and Understanding
-7. Generative Model & Deep RL
-8. Assignment III $\color{red}(9.3)$
+3. Training NN I & Training NN II (7.30) $\color{red}{\mathbf {Bigoo!}}$
+4. Assignment I (8.6)
+5. CNN Architectures & RNN
+6. Assignment II 
+7. Detection and Segmentation & Visualizing and Understanding
+8. Generative Model & Deep RL
+9. Assignment III $\color{red}(9.10)$
 
--> CS224n -> RL Basics -> CS294
+-> RL Basics -> CS294
 
 #### Deep Learning 1h/d
 
@@ -131,7 +119,7 @@ Books and Meetups
 1. Chap2 Linear Algebrea (7.9) $\color{red}{\mathbf {Bigoo!}}$
 2. Probability and  Information Theory & Numerical Computation (7.16) $\color{red}{\mathbf {Bigoo!}}$
 3. Machine Learning Basics (7.23) $\color{red}{\mathbf {Bigoo!}}$
-4. Deep Feedforward Networks )
+4. Deep Feedforward Networks (8.6)
 5. Regularization for Deep Learning
 6. Optimization for Training Deep Models
 7. Convolutional Networks
@@ -179,6 +167,29 @@ Books and Meetups
 
 -> Thinking in Java 
 
+#### C++ 1h/w
+
+1. Getting Started  
+2. Variables and Basic Types & Strings, Vectors and Arrays (7.9) 
+3. Expressions (7.23)
+4. Statements
+5. Functions
+6. Classes
+7. The IO Library
+8. Sequential Containers
+9. Generic Algorithms
+10. Associative Containers
+11. Dynamic Memory
+12. Copy Control
+13. Overloaded Operations and Conversions
+14. Objected-Oriented Programming
+15. Templates and Generic Programming
+16. Specialized Library Facilities
+17. Tools for Large Programs
+18. Specialized Tools and Techniques 
+
+-> K&R -> CUDA (CS334)  -> Parallel Programming (15-418)
+
 #### 6.006/SCDND 1h/d
 
 #### Projects 4h/w
@@ -190,6 +201,8 @@ MLND: Self-Driving Cars & Image Classification
 3. Finish $\color{red}(9.20)$
 
 -> CarND: Vehicle Detection & Tracking -> Reinforcement Learning Projects -> Recommendation System
+
+
 
 ## Projects
 
