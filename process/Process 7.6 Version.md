@@ -30,6 +30,8 @@
 
 #### CS106b
 
+看书+听课+笔记+作业
+
 1. Lec2/Lec3/Lec4 (8.6)
 2. Lec5/Lec6/Lec7
 3. Lec8/Lec9/Lec10
@@ -44,6 +46,8 @@
 
 #### Algorithms + Python 1h/d
 
+听课+笔记+看书+课后题+作业+每早复习前一天的算法
+
 1. Basic Data Structure & Chap10 & Recursion (7.16) $\color{red}{\mathbf {Bigoo!}}$
 2. Sorting and Searching & Insertion Sort, Merge Sort, Quick Sort, Heaps and Heap Sort (8.6)
 3. BST & AVL Trees 
@@ -55,13 +59,15 @@
 9. Bellman-Ford & Speeding up Dijkstra
 10. Dynamic Programming I & II
 11. Dynamic Programming III & IV
-12. Computational Complexity & Topics in Algorithms Research $\color{red}(9.14)$
+12. Computational Complexity & Topics in Algorithms Research $\color{red}(10.15)$
 
--> 6.046 $\color{red}(12.7)$ -> Leetcode
+-> 6.046 $\color{red}(12.31)$ -> Leetcode
 
 ### Day
 
 #### ML Theory 1h/d
+
+看书+笔记
 
 1. Chap7 Linear Regression $\color{red}{\mathbf {Bigoo!}}$
 2. Chap8 Logistic Regression $\color{red}{\mathbf {Bigoo!}}$
@@ -85,6 +91,8 @@
 
 #### ML Related 1h/d
 
+听课+笔记 -> 听课+看书+笔记+作业
+
 1. Intro (7.9) $\color{red}{\mathbf {Bigoo!}}$
 2. Convexity I: Sets and functions & Convexity II: Optimization basics (7.16) $\color{red}{\mathbf {Bigoo!}}$
 3. Canoncial problem forms & Gradient descent (7.23) $\color{red}{\mathbf {Bigoo!}}$
@@ -97,6 +105,8 @@
 -> PGM $\color{red}(11.26)$ -> Jobbing -> 10-705
 
 #### Top 1h/d
+
+看Notes/论文+听课+笔记+作业
 
 CS231n:  明白Notes，然后Coding
 
@@ -113,6 +123,8 @@ CS231n:  明白Notes，然后Coding
 -> RL Basics -> CS294
 
 #### Deep Learning 1h/d
+
+看书+笔记
 
 Books and Meetups
 
@@ -134,6 +146,8 @@ Books and Meetups
 ### Nights
 
 #### CarND 2h/d
+
+听课+看文档+笔记+作业
 
 1. Lane Fining (7.16)
 2. DNN by Numpy (7.23)
