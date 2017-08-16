@@ -1,43 +1,6 @@
 ## Outline
 
-### Short term
-
-#### Target
-
-* ML for Interviews
-  * Notes
-  * MLAPP
-* Algorithms for Interviews
-  * 6.006 + 6.046
-  * Hackerrank
-* DL for Interviews
-  * CS231n/CS224n Assignments
-  * Paper Recoding
-* Programming for Interviews
-  * Scala
-  * Spark
-
-
-
-#### For Long
-
-* CarND
-* CS106b
-* Microsoft C++ -> C++ Programming
-
-### Long term
-
-* ML: 10-705/10-702/PGM
-* DL: CV & RL in self driving car
-* Algorithms
-  * edX data structure
-  * edX algorithms
-* Programming
-  * C++
-  * Design Pattern
-  * Parrellel Programming
-
-### Details
+### 8.16 - 9.30
 
 **How to ?**
 
@@ -52,7 +15,7 @@
 - L6/R6/L7/R7/L8/R8/L9
 - ...
 
-#### ML 
+#### ML 1h 
 
 - Intro to prob and infomation theory $\color{red}(8.20)$
 - kNN/Naive Bayes
@@ -60,19 +23,41 @@
 - SVM/Kernels
 - Ensemble learning/PCA
 - K-means/EM
-- Distributed ML
-- RL $\color{red}(10.9)$
+- Distributed ML/RL $\color{red}(10.1)$
 
-#### Coding
+#### DL 1h
+
+* CS231n Assignment I / CS231n Assignment II
+* CS231n Assignment III
+* Introduction to NLP and Deep Learning / Word Vector Representations: word2vec
+* Advanced Word Vector Representations
+* Word Window Classification and Neural Networks / Backpropagation and Project Advice
+* Dependency Parsing
+* CS224n Assignment I
+* Introduction to TensorFlow/Recurrent Neural Networks and Language Models/Machine translation and advanced recurrent LSTMs and GRUs
+* CS224n Assignment II
+* Neural Machine Translation and Models with Attention/Gated recurrent units and further topics in NMT $\color{red}(10.9)$
+* End-to-end models for Speech Processing/Convolutional Neural Networks
+* CS224n Assignment III
+* Tree Recursive Neural Networks and Constituency Parsing
+* Coreference Resolution
+* Dynamic Neural Networks for Question Answering
+* Issues in NLP and Possible Architectures for NLP
+* Tackling the Limits of Deep Learning for NLP
+* CS224n Assignment IV
+
+#### Coding 2h
+
+Python && Spark Version
 
 - Coordinate Descent for Lasso for Logistic Regression $\color{red}(8.20)$
 - Coordinate Descent for Group Lasso for Logistic Regression
 - Proximal Descent for Group Lasso for Logistic Regression
-- Vanilla Decision Tree
-- Cost-sensitive Decision Tree
+- Vanilla Decision Tree / Cost-sensitive Decision Tree
 - Cost-sensitive Random Forest
 - GBDT
 - XGBoost
+- Collebotive Filtering
 
 #### C++ 7:00 - 8:00
 
@@ -113,4 +98,61 @@ Book
 * Chap9/Chap10
 * Chap11/Chap12
 
-MLND Project
+#### MLND Project
+
+* RL Project
+* Capstone
+
+### 10.1
+
+#### Daily
+
+* Algorithms
+* DL
+* C++
+* CarND
+
+#### Projects
+
+* Scala Capstone
+* Spark Version of Algorithms
+* Vehicle Detection Using Deep Learning
+
+#### Schedule
+
+* 早: Algorithms -> DL -> CarND 6:00 - 12:00
+* 下: Projects 14:00 - 18:00
+* 晚: C++ -> Hadoop/Spark/Hive 19:00 - 22:00
+
+### 10.9 - 11.9/12.9
+
+#### Algorithms
+
+#### Algorithms Interview
+
+#### ML Interview
+
+#### DL && DL Interview
+
+#### Spark
+
+#### C++
+
+#### CarND
+
+### Long term
+
+- ML Theory: 10-705/10-702/15-708/PGM
+- ML Industry: Recsys/CTR/10-605
+- DL: 
+  * CV & RL in self driving car
+  * CS224n -> CS294
+- Algorithms
+  - edX data structure
+  - edX algorithms
+- Programming
+  - C++
+  - Design Pattern
+  - Parrellel Programming
+  - Spark
+- Mooc: CarND -> RobotND
