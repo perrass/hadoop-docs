@@ -48,16 +48,22 @@
 
 #### Coding 2h
 
-Python && Spark Version
+Python Version
 
-- Coordinate Descent for Lasso for Logistic Regression $\color{red}(8.20)$
-- Coordinate Descent for Group Lasso for Logistic Regression
-- Proximal Descent for Group Lasso for Logistic Regression
-- Vanilla Decision Tree / Cost-sensitive Decision Tree
-- Cost-sensitive Random Forest
+- Lightning
+  - SGD/AdaGrad/SAG/SAGA/SVRG
+  - Newton Method/Coordinate Descent
+  - ISTA/FISTA (Proximal Gradient Descent)
+- Costcla
+  - Vanilla Tree
+  - BFGS/Cost-sensitive Tree
+  - Cost-senstive RF
 - GBDT
-- XGBoost
-- Collebotive Filtering
+
+Spark Version
+
+* Bootstrap Group Lasso for Logistic Regression
+* Ranking
 
 #### C++ 7:00 - 8:00
 
